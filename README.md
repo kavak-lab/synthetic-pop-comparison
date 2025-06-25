@@ -1,8 +1,13 @@
-# Quantitative Comparison of Population Synthesis Techniques for Two Countries
+# Quantitative Comparison of Population Synthesis Techniques
 
 ## Description
 
-This project provides the codebase for "Quantitiative Comparision of Population Synthesis Techniques for Two Countries". We offer this as an outline for reproducing our data and results present in the paper.
+This project provides the codebase for "Quantitiative Comparision of Population Synthesis Techniques". We offer this as an outline for reproducing our data and results present in the paper.
+
+## Citation
+
+Han, D., Islam, S., Anderson, T., Crooks, A., & Kavak, H. (2025). **Quantitative Comparison of Population Synthesis Techniques**. In *Proceedings of the Winter Simulation Conference 2025*.
+
 
 ## Installation/Packages
 
@@ -58,3 +63,8 @@ Individual data can be converted into aggregate data (into a separate `cons_{}.c
 - R^2 values
 
 These metrics can be calculated inside `results_generation` using `cons_{}.csv` and aggregate data csv files produced from synthetic individuals.
+
+## Contributors
+
+**Project Team:** [David Han](https://david-han.dev/), [Samiul Islam](https://github.com/sami141215), [Taylor Anderson](https://science.gmu.edu/directory/taylor-anderson), [Andrew Crooks](https://www.gisagents.org/), and [Hamdi Kavak](https://github.com/hamdikavak).
+
