@@ -1,0 +1,38 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Knowledge of official language - Both sexes / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Both sexes
+COL2 - Knowledge of official language - Both sexes / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Both sexes / English only ; Both sexes
+COL3 - Knowledge of official language - Both sexes / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Both sexes / French only ; Both sexes
+COL4 - Knowledge of official language - Both sexes / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Both sexes / English and French ; Both sexes
+COL5 - Knowledge of official language - Both sexes / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Both sexes / Neither English nor French ; Both sexes
+COL6 - Knowledge of official language - Males / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Males
+COL7 - Knowledge of official language - Males / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Males / English only ; Males
+COL8 - Knowledge of official language - Males / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Males / French only ; Males
+COL9 - Knowledge of official language - Males / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Males / English and French ; Males
+COL10 - Knowledge of official language - Males / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Males / Neither English nor French ; Males
+COL11 - Knowledge of official language - Females / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Females
+COL12 - Knowledge of official language - Females / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Females / English only ; Females
+COL13 - Knowledge of official language - Females / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Females / French only ; Females
+COL14 - Knowledge of official language - Females / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Females / English and French ; Females
+COL15 - Knowledge of official language - Females / Total - Knowledge of official languages for the total population excluding institutional residents - 100% data ; Females / Neither English nor French ; Females
+COL16 - First official language spoken - Both sexes / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Both sexes
+COL17 - First official language spoken - Both sexes / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Both sexes / English ; Both sexes
+COL18 - First official language spoken - Both sexes / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Both sexes / French ; Both sexes
+COL19 - First official language spoken - Both sexes / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Both sexes / English and French ; Both sexes
+COL20 - First official language spoken - Both sexes / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Both sexes / Neither English nor French ; Both sexes
+COL21 - First official language spoken - Both sexes / Official language minority (number) ; Both sexes
+COL22 - First official language spoken - Both sexes / Official language minority (percentage) ; Both sexes
+COL23 - First official language spoken - Males / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Males
+COL24 - First official language spoken - Males / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Males / English ; Males
+COL25 - First official language spoken - Males / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Males / French ; Males
+COL26 - First official language spoken - Males / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Males / English and French ; Males
+COL27 - First official language spoken - Males / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Males / Neither English nor French ; Males
+COL28 - First official language spoken - Males / Official language minority (number) ; Males
+COL29 - First official language spoken - Males / Official language minority (percentage) ; Males
+COL30 - First official language spoken - Females / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Females
+COL31 - First official language spoken - Females / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Females / English ; Females
+COL32 - First official language spoken - Females / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Females / French ; Females
+COL33 - First official language spoken - Females / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Females / English and French ; Females
+COL34 - First official language spoken - Females / Total - First official language spoken for the total population excluding institutional residents - 100% data ; Females / Neither English nor French ; Females
+COL35 - First official language spoken - Females / Official language minority (number) ; Females
+COL36 - First official language spoken - Females / Official language minority (percentage) ; Females

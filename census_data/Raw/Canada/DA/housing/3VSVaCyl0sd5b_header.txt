@@ -1,0 +1,200 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Housing - Total Sex / Total - Private households by tenure - 25% sample data
+COL2 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Owner
+COL3 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Renter
+COL4 - Housing - Total Sex / Total - Private households by tenure - 25% sample data / Band housing
+COL5 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data
+COL6 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data / Condominium
+COL7 - Housing - Total Sex / Total - Occupied private dwellings by condominium status - 25% sample data / Not condominium
+COL8 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data
+COL9 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
+COL10 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 1 bedroom
+COL11 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 2 bedrooms
+COL12 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 3 bedrooms
+COL13 - Housing - Total Sex / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
+COL14 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data
+COL15 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data / 1 to 4 rooms
+COL16 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data / 5 rooms
+COL17 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data / 6 rooms
+COL18 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data / 7 rooms
+COL19 - Housing - Total Sex / Total - Occupied private dwellings by number of rooms - 25% sample data / 8 or more rooms
+COL20 - Housing - Total Sex / Average number of rooms per dwelling
+COL21 - Housing - Total Sex / Total - Private households by number of persons per room - 25% sample data
+COL22 - Housing - Total Sex / Total - Private households by number of persons per room - 25% sample data / One person or fewer per room
+COL23 - Housing - Total Sex / Total - Private households by number of persons per room - 25% sample data / More than 1 person per room
+COL24 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data
+COL25 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Suitable
+COL26 - Housing - Total Sex / Total - Private households by housing suitability - 25% sample data / Not suitable
+COL27 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data
+COL28 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1960 or before
+COL29 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1961 to 1980
+COL30 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1981 to 1990
+COL31 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 1991 to 2000
+COL32 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2001 to 2005
+COL33 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2006 to 2010
+COL34 - Housing - Total Sex / Total - Occupied private dwellings by period of construction - 25% sample data / 2011 to 2016
+COL35 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data
+COL36 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
+COL37 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+COL38 - Housing - Total Sex / Total - Private households by number of household maintainers - 25% sample data
+COL39 - Housing - Total Sex / Total - Private households by number of household maintainers - 25% sample data / 1 household maintainer
+COL40 - Housing - Total Sex / Total - Private households by number of household maintainers - 25% sample data / 2 household maintainers
+COL41 - Housing - Total Sex / Total - Private households by number of household maintainers - 25% sample data / 3 or more household maintainers
+COL42 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data
+COL43 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 15 to 24 years
+COL44 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 25 to 34 years
+COL45 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 35 to 44 years
+COL46 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 45 to 54 years
+COL47 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 55 to 64 years
+COL48 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 65 to 74 years
+COL49 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 75 to 84 years
+COL50 - Housing - Total Sex / Total - Private households by age of primary household maintainers - 25% sample data / 85 years and over
+COL51 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data
+COL52 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending less than 30% of income on shelter costs
+COL53 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs
+COL54 - Housing - Total Sex / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs / 30% to less than 100%
+COL55 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data
+COL56 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households with a mortgage
+COL57 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households spending 30% or more of its income on shelter costs
+COL58 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for owned dwellings ($)
+COL59 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for owned dwellings ($)
+COL60 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median value of dwellings ($)
+COL61 - Housing - Total Sex / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average value of dwellings ($)
+COL62 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data
+COL63 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households in subsidized housing
+COL64 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households spending 30% or more of its income on shelter costs
+COL65 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for rented dwellings ($)
+COL66 - Housing - Total Sex / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for rented dwellings ($)
+COL67 - Housing - Males / Total - Private households by tenure - 25% sample data
+COL68 - Housing - Males / Total - Private households by tenure - 25% sample data / Owner
+COL69 - Housing - Males / Total - Private households by tenure - 25% sample data / Renter
+COL70 - Housing - Males / Total - Private households by tenure - 25% sample data / Band housing
+COL71 - Housing - Males / Total - Occupied private dwellings by condominium status - 25% sample data
+COL72 - Housing - Males / Total - Occupied private dwellings by condominium status - 25% sample data / Condominium
+COL73 - Housing - Males / Total - Occupied private dwellings by condominium status - 25% sample data / Not condominium
+COL74 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data
+COL75 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
+COL76 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 1 bedroom
+COL77 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 2 bedrooms
+COL78 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 3 bedrooms
+COL79 - Housing - Males / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
+COL80 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data
+COL81 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data / 1 to 4 rooms
+COL82 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data / 5 rooms
+COL83 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data / 6 rooms
+COL84 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data / 7 rooms
+COL85 - Housing - Males / Total - Occupied private dwellings by number of rooms - 25% sample data / 8 or more rooms
+COL86 - Housing - Males / Average number of rooms per dwelling
+COL87 - Housing - Males / Total - Private households by number of persons per room - 25% sample data
+COL88 - Housing - Males / Total - Private households by number of persons per room - 25% sample data / One person or fewer per room
+COL89 - Housing - Males / Total - Private households by number of persons per room - 25% sample data / More than 1 person per room
+COL90 - Housing - Males / Total - Private households by housing suitability - 25% sample data
+COL91 - Housing - Males / Total - Private households by housing suitability - 25% sample data / Suitable
+COL92 - Housing - Males / Total - Private households by housing suitability - 25% sample data / Not suitable
+COL93 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data
+COL94 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 1960 or before
+COL95 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 1961 to 1980
+COL96 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 1981 to 1990
+COL97 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 1991 to 2000
+COL98 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 2001 to 2005
+COL99 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 2006 to 2010
+COL100 - Housing - Males / Total - Occupied private dwellings by period of construction - 25% sample data / 2011 to 2016
+COL101 - Housing - Males / Total - Occupied private dwellings by dwelling condition - 25% sample data
+COL102 - Housing - Males / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
+COL103 - Housing - Males / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+COL104 - Housing - Males / Total - Private households by number of household maintainers - 25% sample data
+COL105 - Housing - Males / Total - Private households by number of household maintainers - 25% sample data / 1 household maintainer
+COL106 - Housing - Males / Total - Private households by number of household maintainers - 25% sample data / 2 household maintainers
+COL107 - Housing - Males / Total - Private households by number of household maintainers - 25% sample data / 3 or more household maintainers
+COL108 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data
+COL109 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 15 to 24 years
+COL110 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 25 to 34 years
+COL111 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 35 to 44 years
+COL112 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 45 to 54 years
+COL113 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 55 to 64 years
+COL114 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 65 to 74 years
+COL115 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 75 to 84 years
+COL116 - Housing - Males / Total - Private households by age of primary household maintainers - 25% sample data / 85 years and over
+COL117 - Housing - Males / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data
+COL118 - Housing - Males / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending less than 30% of income on shelter costs
+COL119 - Housing - Males / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs
+COL120 - Housing - Males / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs / 30% to less than 100%
+COL121 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data
+COL122 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households with a mortgage
+COL123 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households spending 30% or more of its income on shelter costs
+COL124 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for owned dwellings ($)
+COL125 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for owned dwellings ($)
+COL126 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median value of dwellings ($)
+COL127 - Housing - Males / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average value of dwellings ($)
+COL128 - Housing - Males / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data
+COL129 - Housing - Males / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households in subsidized housing
+COL130 - Housing - Males / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households spending 30% or more of its income on shelter costs
+COL131 - Housing - Males / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for rented dwellings ($)
+COL132 - Housing - Males / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for rented dwellings ($)
+COL133 - Housing - Females / Total - Private households by tenure - 25% sample data
+COL134 - Housing - Females / Total - Private households by tenure - 25% sample data / Owner
+COL135 - Housing - Females / Total - Private households by tenure - 25% sample data / Renter
+COL136 - Housing - Females / Total - Private households by tenure - 25% sample data / Band housing
+COL137 - Housing - Females / Total - Occupied private dwellings by condominium status - 25% sample data
+COL138 - Housing - Females / Total - Occupied private dwellings by condominium status - 25% sample data / Condominium
+COL139 - Housing - Females / Total - Occupied private dwellings by condominium status - 25% sample data / Not condominium
+COL140 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data
+COL141 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data / No bedrooms
+COL142 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 1 bedroom
+COL143 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 2 bedrooms
+COL144 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 3 bedrooms
+COL145 - Housing - Females / Total - Occupied private dwellings by number of bedrooms - 25% sample data / 4 or more bedrooms
+COL146 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data
+COL147 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data / 1 to 4 rooms
+COL148 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data / 5 rooms
+COL149 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data / 6 rooms
+COL150 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data / 7 rooms
+COL151 - Housing - Females / Total - Occupied private dwellings by number of rooms - 25% sample data / 8 or more rooms
+COL152 - Housing - Females / Average number of rooms per dwelling
+COL153 - Housing - Females / Total - Private households by number of persons per room - 25% sample data
+COL154 - Housing - Females / Total - Private households by number of persons per room - 25% sample data / One person or fewer per room
+COL155 - Housing - Females / Total - Private households by number of persons per room - 25% sample data / More than 1 person per room
+COL156 - Housing - Females / Total - Private households by housing suitability - 25% sample data
+COL157 - Housing - Females / Total - Private households by housing suitability - 25% sample data / Suitable
+COL158 - Housing - Females / Total - Private households by housing suitability - 25% sample data / Not suitable
+COL159 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data
+COL160 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 1960 or before
+COL161 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 1961 to 1980
+COL162 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 1981 to 1990
+COL163 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 1991 to 2000
+COL164 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 2001 to 2005
+COL165 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 2006 to 2010
+COL166 - Housing - Females / Total - Occupied private dwellings by period of construction - 25% sample data / 2011 to 2016
+COL167 - Housing - Females / Total - Occupied private dwellings by dwelling condition - 25% sample data
+COL168 - Housing - Females / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
+COL169 - Housing - Females / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+COL170 - Housing - Females / Total - Private households by number of household maintainers - 25% sample data
+COL171 - Housing - Females / Total - Private households by number of household maintainers - 25% sample data / 1 household maintainer
+COL172 - Housing - Females / Total - Private households by number of household maintainers - 25% sample data / 2 household maintainers
+COL173 - Housing - Females / Total - Private households by number of household maintainers - 25% sample data / 3 or more household maintainers
+COL174 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data
+COL175 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 15 to 24 years
+COL176 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 25 to 34 years
+COL177 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 35 to 44 years
+COL178 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 45 to 54 years
+COL179 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 55 to 64 years
+COL180 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 65 to 74 years
+COL181 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 75 to 84 years
+COL182 - Housing - Females / Total - Private households by age of primary household maintainers - 25% sample data / 85 years and over
+COL183 - Housing - Females / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data
+COL184 - Housing - Females / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending less than 30% of income on shelter costs
+COL185 - Housing - Females / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs
+COL186 - Housing - Females / Total -  Owner and tenant households with household total income greater than zero, in non-farm, non-reserve private dwellings by shelter-cost-to-income ratio - 25% sample data / Spending 30% or more of income on shelter costs / 30% to less than 100%
+COL187 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data
+COL188 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households with a mortgage
+COL189 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / % of owner households spending 30% or more of its income on shelter costs
+COL190 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for owned dwellings ($)
+COL191 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for owned dwellings ($)
+COL192 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Median value of dwellings ($)
+COL193 - Housing - Females / Total - Owner households in non-farm, non-reserve private dwellings - 25% sample data / Average value of dwellings ($)
+COL194 - Housing - Females / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data
+COL195 - Housing - Females / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households in subsidized housing
+COL196 - Housing - Females / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / % of tenant households spending 30% or more of its income on shelter costs
+COL197 - Housing - Females / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Median monthly shelter costs for rented dwellings ($)
+COL198 - Housing - Females / Total - Tenant households in non-farm, non-reserve private dwellings - 25% sample data / Average monthly shelter costs for rented dwellings ($)

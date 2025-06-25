@@ -1,0 +1,25 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Family characteristics / Total - Census families in private households by family size - 100% data
+COL2 - Family characteristics / Total - Census families in private households by family size - 100% data / 2 persons
+COL3 - Family characteristics / Total - Census families in private households by family size - 100% data / 3 persons
+COL4 - Family characteristics / Total - Census families in private households by family size - 100% data / 4 persons
+COL5 - Family characteristics / Total - Census families in private households by family size - 100% data / 5 or more persons
+COL6 - Family characteristics / Average size of census families
+COL7 - Family characteristics / Total number of census families in private households - 100% data
+COL8 - Family characteristics / Total number of census families in private households - 100% data / Total couple families
+COL9 - Family characteristics / Total number of census families in private households - 100% data / Total couple families / Married couples
+COL10 - Family characteristics / Total number of census families in private households - 100% data / Total couple families / Common-law couples
+COL11 - Family characteristics / Total number of census families in private households - 100% data / Total lone-parent families by sex of parent
+COL12 - Family characteristics / Total number of census families in private households - 100% data / Total lone-parent families by sex of parent / Female parent
+COL13 - Family characteristics / Total number of census families in private households - 100% data / Total lone-parent families by sex of parent / Male parent
+COL14 - Family characteristics / Total - Couple census families in private households - 100% data
+COL15 - Family characteristics / Total - Couple census families in private households - 100% data / Couples without children
+COL16 - Family characteristics / Total - Couple census families in private households - 100% data / Couples with children
+COL17 - Family characteristics / Total - Couple census families in private households - 100% data / Couples with children / 1 child
+COL18 - Family characteristics / Total - Couple census families in private households - 100% data / Couples with children / 2 children
+COL19 - Family characteristics / Total - Couple census families in private households - 100% data / Couples with children / 3 or more children
+COL20 - Family characteristics / Total - Lone-parent census families in private households - 100% data
+COL21 - Family characteristics / Total - Lone-parent census families in private households - 100% data / 1 child
+COL22 - Family characteristics / Total - Lone-parent census families in private households - 100% data / 2 children
+COL23 - Family characteristics / Total - Lone-parent census families in private households - 100% data / 3 or more children

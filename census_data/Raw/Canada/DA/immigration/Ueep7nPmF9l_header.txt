@@ -1,0 +1,464 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data
+COL2 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens
+COL3 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged under 18
+COL4 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged 18 and over
+COL5 - Immigration - Total Sex / Total - Citizenship for the population in private households - 25% sample data / Not Canadian citizens
+COL6 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data
+COL7 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-immigrants
+COL8 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants
+COL9 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / Before 1981
+COL10 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1981 to 1990
+COL11 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1991 to 2000
+COL12 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010
+COL13 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2001 to 2005
+COL14 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2006 to 2010
+COL15 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2011 to 2016
+COL16 - Immigration - Total Sex / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-permanent residents
+COL17 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data
+COL18 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data / Under 5 years
+COL19 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data / 5 to 14 years
+COL20 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data / 15 to 24 years
+COL21 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data / 25 to 44 years
+COL22 - Immigration - Total Sex / Total - Age at immigration for the immigrant population in private households - 25% sample data / 45 years and over
+COL23 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data
+COL24 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas
+COL25 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Brazil
+COL26 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Colombia
+COL27 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / El Salvador
+COL28 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Guyana
+COL29 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Haiti
+COL30 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Jamaica
+COL31 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Mexico
+COL32 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Peru
+COL33 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Trinidad and Tobago
+COL34 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / United States
+COL35 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL36 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe
+COL37 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Bosnia and Herzegovina
+COL38 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Croatia
+COL39 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / France
+COL40 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Germany
+COL41 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Greece
+COL42 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Hungary
+COL43 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ireland
+COL44 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Italy
+COL45 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Netherlands
+COL46 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Poland
+COL47 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Portugal
+COL48 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Romania
+COL49 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL50 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Serbia
+COL51 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ukraine
+COL52 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL53 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL54 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa
+COL55 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Algeria
+COL56 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Egypt
+COL57 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL58 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Kenya
+COL59 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Morocco
+COL60 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Nigeria
+COL61 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Somalia
+COL62 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL63 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL64 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia
+COL65 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL66 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL67 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / China
+COL68 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL69 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / India
+COL70 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iran
+COL71 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iraq
+COL72 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Japan
+COL73 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Korea, South
+COL74 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Lebanon
+COL75 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Pakistan
+COL76 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Philippines
+COL77 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL78 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Syria
+COL79 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Taiwan
+COL80 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL81 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL82 - Immigration - Total Sex / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Oceania and other places of birth
+COL83 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data
+COL84 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas
+COL85 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Brazil
+COL86 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Colombia
+COL87 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Cuba
+COL88 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Haiti
+COL89 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Jamaica
+COL90 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Mexico
+COL91 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / United States
+COL92 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Venezuela
+COL93 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL94 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe
+COL95 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / France
+COL96 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Germany
+COL97 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ireland
+COL98 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Moldova
+COL99 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Romania
+COL100 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL101 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ukraine
+COL102 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL103 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL104 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa
+COL105 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Algeria
+COL106 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Cameroon
+COL107 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Congo, Democratic Republic of the
+COL108 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Côte d'Ivoire
+COL109 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Egypt
+COL110 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Eritrea
+COL111 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL112 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Morocco
+COL113 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Nigeria
+COL114 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Somalia
+COL115 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL116 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Tunisia
+COL117 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL118 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia
+COL119 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL120 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL121 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / China
+COL122 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL123 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / India
+COL124 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iran
+COL125 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iraq
+COL126 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Israel
+COL127 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Japan
+COL128 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Korea, South
+COL129 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Lebanon
+COL130 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Nepal
+COL131 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Pakistan
+COL132 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Philippines
+COL133 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Saudi Arabia
+COL134 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL135 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Syria
+COL136 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Taiwan
+COL137 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Turkey
+COL138 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / United Arab Emirates
+COL139 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL140 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL141 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other
+COL142 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Australia
+COL143 - Immigration - Total Sex / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Other places of birth
+COL144 - Immigration - Total Sex / Total - Generation status for the population in private households - 25% sample data
+COL145 - Immigration - Total Sex / Total - Generation status for the population in private households - 25% sample data / First generation
+COL146 - Immigration - Total Sex / Total - Generation status for the population in private households - 25% sample data / Second generation
+COL147 - Immigration - Total Sex / Total - Generation status for the population in private households - 25% sample data / Third generation or more
+COL148 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data
+COL149 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants
+COL150 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Principal applicants
+COL151 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Secondary applicants
+COL152 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Immigrants sponsored by family
+COL153 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Refugees
+COL154 - Immigration - Total Sex / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Other immigrants
+COL155 - Immigration - Males / Total - Citizenship for the population in private households - 25% sample data
+COL156 - Immigration - Males / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens
+COL157 - Immigration - Males / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged under 18
+COL158 - Immigration - Males / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged 18 and over
+COL159 - Immigration - Males / Total - Citizenship for the population in private households - 25% sample data / Not Canadian citizens
+COL160 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data
+COL161 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-immigrants
+COL162 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants
+COL163 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / Before 1981
+COL164 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1981 to 1990
+COL165 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1991 to 2000
+COL166 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010
+COL167 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2001 to 2005
+COL168 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2006 to 2010
+COL169 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2011 to 2016
+COL170 - Immigration - Males / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-permanent residents
+COL171 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data
+COL172 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data / Under 5 years
+COL173 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data / 5 to 14 years
+COL174 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data / 15 to 24 years
+COL175 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data / 25 to 44 years
+COL176 - Immigration - Males / Total - Age at immigration for the immigrant population in private households - 25% sample data / 45 years and over
+COL177 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data
+COL178 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas
+COL179 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Brazil
+COL180 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Colombia
+COL181 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / El Salvador
+COL182 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Guyana
+COL183 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Haiti
+COL184 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Jamaica
+COL185 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Mexico
+COL186 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Peru
+COL187 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Trinidad and Tobago
+COL188 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / United States
+COL189 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL190 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe
+COL191 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Bosnia and Herzegovina
+COL192 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Croatia
+COL193 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / France
+COL194 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Germany
+COL195 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Greece
+COL196 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Hungary
+COL197 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ireland
+COL198 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Italy
+COL199 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Netherlands
+COL200 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Poland
+COL201 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Portugal
+COL202 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Romania
+COL203 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL204 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Serbia
+COL205 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ukraine
+COL206 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL207 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL208 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa
+COL209 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Algeria
+COL210 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Egypt
+COL211 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL212 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Kenya
+COL213 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Morocco
+COL214 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Nigeria
+COL215 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Somalia
+COL216 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL217 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL218 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia
+COL219 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL220 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL221 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / China
+COL222 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL223 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / India
+COL224 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iran
+COL225 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iraq
+COL226 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Japan
+COL227 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Korea, South
+COL228 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Lebanon
+COL229 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Pakistan
+COL230 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Philippines
+COL231 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL232 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Syria
+COL233 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Taiwan
+COL234 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL235 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL236 - Immigration - Males / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Oceania and other places of birth
+COL237 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data
+COL238 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas
+COL239 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Brazil
+COL240 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Colombia
+COL241 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Cuba
+COL242 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Haiti
+COL243 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Jamaica
+COL244 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Mexico
+COL245 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / United States
+COL246 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Venezuela
+COL247 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL248 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe
+COL249 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / France
+COL250 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Germany
+COL251 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ireland
+COL252 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Moldova
+COL253 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Romania
+COL254 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL255 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ukraine
+COL256 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL257 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL258 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa
+COL259 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Algeria
+COL260 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Cameroon
+COL261 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Congo, Democratic Republic of the
+COL262 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Côte d'Ivoire
+COL263 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Egypt
+COL264 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Eritrea
+COL265 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL266 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Morocco
+COL267 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Nigeria
+COL268 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Somalia
+COL269 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL270 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Tunisia
+COL271 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL272 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia
+COL273 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL274 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL275 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / China
+COL276 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL277 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / India
+COL278 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iran
+COL279 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iraq
+COL280 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Israel
+COL281 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Japan
+COL282 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Korea, South
+COL283 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Lebanon
+COL284 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Nepal
+COL285 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Pakistan
+COL286 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Philippines
+COL287 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Saudi Arabia
+COL288 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL289 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Syria
+COL290 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Taiwan
+COL291 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Turkey
+COL292 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / United Arab Emirates
+COL293 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL294 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL295 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other
+COL296 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Australia
+COL297 - Immigration - Males / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Other places of birth
+COL298 - Immigration - Males / Total - Generation status for the population in private households - 25% sample data
+COL299 - Immigration - Males / Total - Generation status for the population in private households - 25% sample data / First generation
+COL300 - Immigration - Males / Total - Generation status for the population in private households - 25% sample data / Second generation
+COL301 - Immigration - Males / Total - Generation status for the population in private households - 25% sample data / Third generation or more
+COL302 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data
+COL303 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants
+COL304 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Principal applicants
+COL305 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Secondary applicants
+COL306 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Immigrants sponsored by family
+COL307 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Refugees
+COL308 - Immigration - Males / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Other immigrants
+COL309 - Immigration - Females / Total - Citizenship for the population in private households - 25% sample data
+COL310 - Immigration - Females / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens
+COL311 - Immigration - Females / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged under 18
+COL312 - Immigration - Females / Total - Citizenship for the population in private households - 25% sample data / Canadian citizens / Canadian citizens aged 18 and over
+COL313 - Immigration - Females / Total - Citizenship for the population in private households - 25% sample data / Not Canadian citizens
+COL314 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data
+COL315 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-immigrants
+COL316 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants
+COL317 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / Before 1981
+COL318 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1981 to 1990
+COL319 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 1991 to 2000
+COL320 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010
+COL321 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2001 to 2005
+COL322 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2001 to 2010 / 2006 to 2010
+COL323 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Immigrants / 2011 to 2016
+COL324 - Immigration - Females / Total - Immigrant status and period of immigration for the population in private households - 25% sample data / Non-permanent residents
+COL325 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data
+COL326 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data / Under 5 years
+COL327 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data / 5 to 14 years
+COL328 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data / 15 to 24 years
+COL329 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data / 25 to 44 years
+COL330 - Immigration - Females / Total - Age at immigration for the immigrant population in private households - 25% sample data / 45 years and over
+COL331 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data
+COL332 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas
+COL333 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Brazil
+COL334 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Colombia
+COL335 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / El Salvador
+COL336 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Guyana
+COL337 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Haiti
+COL338 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Jamaica
+COL339 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Mexico
+COL340 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Peru
+COL341 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Trinidad and Tobago
+COL342 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / United States
+COL343 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL344 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe
+COL345 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Bosnia and Herzegovina
+COL346 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Croatia
+COL347 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / France
+COL348 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Germany
+COL349 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Greece
+COL350 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Hungary
+COL351 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ireland
+COL352 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Italy
+COL353 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Netherlands
+COL354 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Poland
+COL355 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Portugal
+COL356 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Romania
+COL357 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL358 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Serbia
+COL359 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Ukraine
+COL360 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL361 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL362 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa
+COL363 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Algeria
+COL364 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Egypt
+COL365 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL366 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Kenya
+COL367 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Morocco
+COL368 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Nigeria
+COL369 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Somalia
+COL370 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL371 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL372 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia
+COL373 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL374 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL375 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / China
+COL376 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL377 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / India
+COL378 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iran
+COL379 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Iraq
+COL380 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Japan
+COL381 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Korea, South
+COL382 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Lebanon
+COL383 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Pakistan
+COL384 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Philippines
+COL385 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL386 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Syria
+COL387 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Taiwan
+COL388 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL389 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL390 - Immigration - Females / Total - Selected places of birth for the immigrant population in private households - 25% sample data / Oceania and other places of birth
+COL391 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data
+COL392 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas
+COL393 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Brazil
+COL394 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Colombia
+COL395 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Cuba
+COL396 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Haiti
+COL397 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Jamaica
+COL398 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Mexico
+COL399 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / United States
+COL400 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Venezuela
+COL401 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Americas / Other places of birth in Americas
+COL402 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe
+COL403 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / France
+COL404 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Germany
+COL405 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ireland
+COL406 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Moldova
+COL407 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Romania
+COL408 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Russian Federation
+COL409 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Ukraine
+COL410 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / United Kingdom
+COL411 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Europe / Other places of birth in Europe
+COL412 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa
+COL413 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Algeria
+COL414 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Cameroon
+COL415 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Congo, Democratic Republic of the
+COL416 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Côte d'Ivoire
+COL417 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Egypt
+COL418 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Eritrea
+COL419 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Ethiopia
+COL420 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Morocco
+COL421 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Nigeria
+COL422 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Somalia
+COL423 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / South Africa, Republic of
+COL424 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Tunisia
+COL425 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Africa / Other places of birth in Africa
+COL426 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia
+COL427 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Afghanistan
+COL428 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Bangladesh
+COL429 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / China
+COL430 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Hong Kong
+COL431 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / India
+COL432 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iran
+COL433 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Iraq
+COL434 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Israel
+COL435 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Japan
+COL436 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Korea, South
+COL437 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Lebanon
+COL438 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Nepal
+COL439 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Pakistan
+COL440 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Philippines
+COL441 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Saudi Arabia
+COL442 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Sri Lanka
+COL443 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Syria
+COL444 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Taiwan
+COL445 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Turkey
+COL446 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / United Arab Emirates
+COL447 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Viet Nam
+COL448 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Asia / Other places of birth in Asia
+COL449 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other
+COL450 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Australia
+COL451 - Immigration - Females / Total - Selected places of birth for the recent immigrant population in private households - 25% sample data / Oceania and other / Other places of birth
+COL452 - Immigration - Females / Total - Generation status for the population in private households - 25% sample data
+COL453 - Immigration - Females / Total - Generation status for the population in private households - 25% sample data / First generation
+COL454 - Immigration - Females / Total - Generation status for the population in private households - 25% sample data / Second generation
+COL455 - Immigration - Females / Total - Generation status for the population in private households - 25% sample data / Third generation or more
+COL456 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data
+COL457 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants
+COL458 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Principal applicants
+COL459 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Economic immigrants / Secondary applicants
+COL460 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Immigrants sponsored by family
+COL461 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Refugees
+COL462 - Immigration - Females / Total - Admission category and applicant type for the immigrant population in private households who landed between 1980 and 2016 - 25% sample data / Other immigrants

@@ -1,0 +1,56 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data
+COL2 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Non-movers
+COL3 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers
+COL4 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Non-migrants
+COL5 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants
+COL6 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants
+COL7 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL8 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL9 - Mobility  - Total Sex / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / External migrants
+COL10 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data
+COL11 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Non-movers
+COL12 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers
+COL13 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Non-migrants
+COL14 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants
+COL15 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants
+COL16 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL17 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL18 - Mobility  - Total Sex / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / External migrants
+COL19 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data
+COL20 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Non-movers
+COL21 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers
+COL22 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Non-migrants
+COL23 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants
+COL24 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants
+COL25 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL26 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL27 - Mobility - Males / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / External migrants
+COL28 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data
+COL29 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Non-movers
+COL30 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers
+COL31 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Non-migrants
+COL32 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants
+COL33 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants
+COL34 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL35 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL36 - Mobility - Males / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / External migrants
+COL37 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data
+COL38 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Non-movers
+COL39 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers
+COL40 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Non-migrants
+COL41 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants
+COL42 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants
+COL43 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL44 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL45 - Mobility - Females / Total - Mobility status 1 year ago - 25% sample data / Movers / Migrants / External migrants
+COL46 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data
+COL47 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Non-movers
+COL48 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers
+COL49 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Non-migrants
+COL50 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants
+COL51 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants
+COL52 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Intraprovincial migrants
+COL53 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / Internal migrants / Interprovincial migrants
+COL54 - Mobility - Females / Total - Mobility status 5 years ago - 25% sample data / Movers / Migrants / External migrants

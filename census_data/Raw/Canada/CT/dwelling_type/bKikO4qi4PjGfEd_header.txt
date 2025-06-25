@@ -1,0 +1,20 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data
+COL2 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Single-detached house
+COL3 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Apartment in a building that has five or more storeys
+COL4 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling
+COL5 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling / Semi-detached house
+COL6 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling / Row house
+COL7 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling / Apartment or flat in a duplex
+COL8 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling / Apartment in a building that has fewer than five storeys
+COL9 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Other attached dwelling / Other single-attached house
+COL10 - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Movable dwelling
+COL11 - Dwelling characteristics / Total - Private households by household size - 100% data
+COL12 - Dwelling characteristics / Total - Private households by household size - 100% data / 1 person
+COL13 - Dwelling characteristics / Total - Private households by household size - 100% data / 2 persons
+COL14 - Dwelling characteristics / Total - Private households by household size - 100% data / 3 persons
+COL15 - Dwelling characteristics / Total - Private households by household size - 100% data / 4 persons
+COL16 - Dwelling characteristics / Total - Private households by household size - 100% data / 5 or more persons
+COL17 - Dwelling characteristics / Number of persons in private households
+COL18 - Dwelling characteristics / Average household size

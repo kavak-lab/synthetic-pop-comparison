@@ -1,0 +1,620 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
+COL2 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data
+COL3 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data / Median total income in 2015 among recipients ($)
+COL4 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
+COL5 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+COL6 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data
+COL7 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data / Median market income in 2015 among recipients ($)
+COL8 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data
+COL9 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data / Median government transfers in 2015 among recipients ($)
+COL10 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data
+COL11 - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data / Median employment income in 2015 among recipients ($)
+COL12 - Income - Total Sex / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data
+COL13 - Income - Total Sex / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%)
+COL14 - Income - Total Sex / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%) / Employment income (%)
+COL15 - Income - Total Sex / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Government transfers (%)
+COL16 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL17 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without total income
+COL18 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / With total income
+COL19 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income
+COL20 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / Under $10,000 (including loss)
+COL21 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $10,000 to $19,999
+COL22 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $20,000 to $29,999
+COL23 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $30,000 to $39,999
+COL24 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $40,000 to $49,999
+COL25 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $50,000 to $59,999
+COL26 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $60,000 to $69,999
+COL27 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $70,000 to $79,999
+COL28 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $80,000 to $89,999
+COL29 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $90,000 to $99,999
+COL30 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over
+COL31 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $100,000 to $149,999
+COL32 - Income - Total Sex / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $150,000 and over
+COL33 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL34 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without after-tax income
+COL35 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / With after-tax income
+COL36 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income
+COL37 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / Under $10,000 (including loss)
+COL38 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $10,000 to $19,999
+COL39 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $20,000 to $29,999
+COL40 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $30,000 to $39,999
+COL41 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $40,000 to $49,999
+COL42 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $50,000 to $59,999
+COL43 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $60,000 to $69,999
+COL44 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $70,000 to $79,999
+COL45 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over
+COL46 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $80,000 to $89,999
+COL47 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $90,000 to $99,999
+COL48 - Income - Total Sex / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $100,000 and over
+COL49 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL50 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without employment income
+COL51 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / With employment income
+COL52 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income
+COL53 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / Under $5,000 (including loss)
+COL54 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $5,000 to $9,999
+COL55 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $10,000 to $19,999
+COL56 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $20,000 to $29,999
+COL57 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $30,000 to $39,999
+COL58 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $40,000 to $49,999
+COL59 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $50,000 to $59,999
+COL60 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $60,000 to $69,999
+COL61 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $70,000 to $79,999
+COL62 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over
+COL63 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $80,000 to $89,999
+COL64 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $90,000 to $99,999
+COL65 - Income - Total Sex / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $100,000 and over
+COL66 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data
+COL67 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median total income of households in 2015 ($)
+COL68 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($)
+COL69 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data
+COL70 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median total income of one-person households in 2015 ($)
+COL71 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median after-tax income of one-person households in 2015 ($)
+COL72 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data
+COL73 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median total income of two-or-more-person households in 2015 ($)
+COL74 - Income - Total Sex / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median after-tax income of two-or-more-person households in 2015 ($)
+COL75 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data
+COL76 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / Under $5,000
+COL77 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL78 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL79 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL80 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL81 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL82 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL83 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL84 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL85 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL86 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL87 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL88 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL89 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL90 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL91 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over
+COL92 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL93 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL94 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 to $199,999
+COL95 - Income - Total Sex / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $200,000 and over
+COL96 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data
+COL97 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / Under $5,000
+COL98 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL99 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL100 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL101 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL102 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL103 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL104 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL105 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL106 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL107 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL108 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL109 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL110 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL111 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL112 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over
+COL113 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL114 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL115 - Income - Total Sex / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 and over
+COL116 - Income - Total Sex / Total - Income statistics in 2015 for economic families in private households - 100% data
+COL117 - Income - Total Sex / Total - Income statistics in 2015 for economic families in private households - 100% data / Median total income of economic families in 2015 ($)
+COL118 - Income - Total Sex / Total - Income statistics in 2015 for economic families in private households - 100% data / Median after-tax income of economic families in 2015 ($)
+COL119 - Income - Total Sex / Total - Income statistics in 2015 for economic families in private households - 100% data / Average family size of economic families
+COL120 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data
+COL121 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median total income of couple economic families without children or other relatives in 2015 ($)
+COL122 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL123 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Average family size of couple economic families without children or other relatives
+COL124 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data
+COL125 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median total income of couple economic families with children in 2015 ($)
+COL126 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median after-tax income of couple economic families with children in 2015 ($)
+COL127 - Income - Total Sex / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Average family size of couple economic families with children
+COL128 - Income - Total Sex / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data,
+COL129 - Income - Total Sex / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median total income of lone-parent economic families in 2015 ($)
+COL130 - Income - Total Sex / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median after-tax income of lone-parent economic families in 2015 ($)
+COL131 - Income - Total Sex / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Average family size of lone-parent economic families
+COL132 - Income - Total Sex / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data
+COL133 - Income - Total Sex / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL134 - Income - Total Sex / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median after-tax income in 2015 for persons aged 15 years and over not in economic families ($)
+COL135 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data
+COL136 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution
+COL137 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the bottom decile
+COL138 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the second decile
+COL139 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the third decile
+COL140 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fourth decile
+COL141 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fifth decile
+COL142 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution
+COL143 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the sixth decile
+COL144 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the seventh decile
+COL145 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the eighth decile
+COL146 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the ninth decile
+COL147 - Income - Total Sex / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the top decile
+COL148 - Income - Total Sex / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data
+COL149 - Income - Total Sex / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years
+COL150 - Income - Total Sex / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years / 0 to 5 years
+COL151 - Income - Total Sex / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 18 to 64 years
+COL152 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT)
+COL153 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years
+COL154 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years / 0 to 5 years
+COL155 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT) / 18 to 64 years
+COL156 - Income - Total Sex / In low income based on the Low-income measure, after tax (LIM-AT) / 65 years and over
+COL157 - Income - Total Sex / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)
+COL158 - Income - Total Sex / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%)
+COL159 - Income - Total Sex / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL160 - Income - Total Sex / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 18 to 64 years (%)
+COL161 - Income - Total Sex / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 65 years and over (%)
+COL162 - Income - Total Sex / In low income based on the Low-income cut-offs, after tax (LICO-AT)
+COL163 - Income - Total Sex / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years
+COL164 - Income - Total Sex / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years / 0 to 5 years
+COL165 - Income - Total Sex / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 18 to 64 years
+COL166 - Income - Total Sex / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 65 years and over
+COL167 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)
+COL168 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%)
+COL169 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL170 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 18 to 64 years (%)
+COL171 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 65 years and over (%)
+COL172 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
+COL173 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data
+COL174 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data / Median total income in 2015 among recipients ($)
+COL175 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
+COL176 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+COL177 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data
+COL178 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data / Median market income in 2015 among recipients ($)
+COL179 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data
+COL180 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data / Median government transfers in 2015 among recipients ($)
+COL181 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data
+COL182 - Income - Males / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data / Median employment income in 2015 among recipients ($)
+COL183 - Income - Males / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data
+COL184 - Income - Males / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%)
+COL185 - Income - Males / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%) / Employment income (%)
+COL186 - Income - Males / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Government transfers (%)
+COL187 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL188 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without total income
+COL189 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / With total income
+COL190 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income
+COL191 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / Under $10,000 (including loss)
+COL192 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $10,000 to $19,999
+COL193 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $20,000 to $29,999
+COL194 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $30,000 to $39,999
+COL195 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $40,000 to $49,999
+COL196 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $50,000 to $59,999
+COL197 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $60,000 to $69,999
+COL198 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $70,000 to $79,999
+COL199 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $80,000 to $89,999
+COL200 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $90,000 to $99,999
+COL201 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over
+COL202 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $100,000 to $149,999
+COL203 - Income - Males / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $150,000 and over
+COL204 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL205 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without after-tax income
+COL206 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / With after-tax income
+COL207 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income
+COL208 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / Under $10,000 (including loss)
+COL209 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $10,000 to $19,999
+COL210 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $20,000 to $29,999
+COL211 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $30,000 to $39,999
+COL212 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $40,000 to $49,999
+COL213 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $50,000 to $59,999
+COL214 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $60,000 to $69,999
+COL215 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $70,000 to $79,999
+COL216 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over
+COL217 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $80,000 to $89,999
+COL218 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $90,000 to $99,999
+COL219 - Income - Males / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $100,000 and over
+COL220 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL221 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without employment income
+COL222 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / With employment income
+COL223 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income
+COL224 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / Under $5,000 (including loss)
+COL225 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $5,000 to $9,999
+COL226 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $10,000 to $19,999
+COL227 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $20,000 to $29,999
+COL228 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $30,000 to $39,999
+COL229 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $40,000 to $49,999
+COL230 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $50,000 to $59,999
+COL231 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $60,000 to $69,999
+COL232 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $70,000 to $79,999
+COL233 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over
+COL234 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $80,000 to $89,999
+COL235 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $90,000 to $99,999
+COL236 - Income - Males / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $100,000 and over
+COL237 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data
+COL238 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median total income of households in 2015 ($)
+COL239 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($)
+COL240 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data
+COL241 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median total income of one-person households in 2015 ($)
+COL242 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median after-tax income of one-person households in 2015 ($)
+COL243 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data
+COL244 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median total income of two-or-more-person households in 2015 ($)
+COL245 - Income - Males / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median after-tax income of two-or-more-person households in 2015 ($)
+COL246 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data
+COL247 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / Under $5,000
+COL248 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL249 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL250 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL251 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL252 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL253 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL254 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL255 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL256 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL257 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL258 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL259 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL260 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL261 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL262 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over
+COL263 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL264 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL265 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 to $199,999
+COL266 - Income - Males / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $200,000 and over
+COL267 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data
+COL268 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / Under $5,000
+COL269 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL270 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL271 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL272 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL273 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL274 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL275 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL276 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL277 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL278 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL279 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL280 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL281 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL282 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL283 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over
+COL284 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL285 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL286 - Income - Males / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 and over
+COL287 - Income - Males / Total - Income statistics in 2015 for economic families in private households - 100% data
+COL288 - Income - Males / Total - Income statistics in 2015 for economic families in private households - 100% data / Median total income of economic families in 2015 ($)
+COL289 - Income - Males / Total - Income statistics in 2015 for economic families in private households - 100% data / Median after-tax income of economic families in 2015 ($)
+COL290 - Income - Males / Total - Income statistics in 2015 for economic families in private households - 100% data / Average family size of economic families
+COL291 - Income - Males / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data
+COL292 - Income - Males / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median total income of couple economic families without children or other relatives in 2015 ($)
+COL293 - Income - Males / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL294 - Income - Males / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Average family size of couple economic families without children or other relatives
+COL295 - Income - Males / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data
+COL296 - Income - Males / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median total income of couple economic families with children in 2015 ($)
+COL297 - Income - Males / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median after-tax income of couple economic families with children in 2015 ($)
+COL298 - Income - Males / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Average family size of couple economic families with children
+COL299 - Income - Males / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data,
+COL300 - Income - Males / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median total income of lone-parent economic families in 2015 ($)
+COL301 - Income - Males / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median after-tax income of lone-parent economic families in 2015 ($)
+COL302 - Income - Males / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Average family size of lone-parent economic families
+COL303 - Income - Males / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data
+COL304 - Income - Males / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL305 - Income - Males / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median after-tax income in 2015 for persons aged 15 years and over not in economic families ($)
+COL306 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data
+COL307 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution
+COL308 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the bottom decile
+COL309 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the second decile
+COL310 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the third decile
+COL311 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fourth decile
+COL312 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fifth decile
+COL313 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution
+COL314 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the sixth decile
+COL315 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the seventh decile
+COL316 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the eighth decile
+COL317 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the ninth decile
+COL318 - Income - Males / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the top decile
+COL319 - Income - Males / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data
+COL320 - Income - Males / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years
+COL321 - Income - Males / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years / 0 to 5 years
+COL322 - Income - Males / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 18 to 64 years
+COL323 - Income - Males / In low income based on the Low-income measure, after tax (LIM-AT)
+COL324 - Income - Males / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years
+COL325 - Income - Males / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years / 0 to 5 years
+COL326 - Income - Males / In low income based on the Low-income measure, after tax (LIM-AT) / 18 to 64 years
+COL327 - Income - Males / In low income based on the Low-income measure, after tax (LIM-AT) / 65 years and over
+COL328 - Income - Males / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)
+COL329 - Income - Males / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%)
+COL330 - Income - Males / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL331 - Income - Males / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 18 to 64 years (%)
+COL332 - Income - Males / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 65 years and over (%)
+COL333 - Income - Males / In low income based on the Low-income cut-offs, after tax (LICO-AT)
+COL334 - Income - Males / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years
+COL335 - Income - Males / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years / 0 to 5 years
+COL336 - Income - Males / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 18 to 64 years
+COL337 - Income - Males / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 65 years and over
+COL338 - Income - Males / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)
+COL339 - Income - Males / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%)
+COL340 - Income - Males / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL341 - Income - Males / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 18 to 64 years (%)
+COL342 - Income - Males / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 65 years and over (%)
+COL343 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data
+COL344 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data
+COL345 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of total income recipients aged 15 years and over in private households - 100% data / Median total income in 2015 among recipients ($)
+COL346 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data
+COL347 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+COL348 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data
+COL349 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of market income recipients aged 15 years and over in private households - 100% data / Median market income in 2015 among recipients ($)
+COL350 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data
+COL351 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of government transfers recipients aged 15 years and over in private households - 100% data / Median government transfers in 2015 among recipients ($)
+COL352 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data
+COL353 - Income - Females / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of employment income recipients aged 15 years and over in private households - 100% data / Median employment income in 2015 among recipients ($)
+COL354 - Income - Females / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data
+COL355 - Income - Females / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%)
+COL356 - Income - Females / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Market income (%) / Employment income (%)
+COL357 - Income - Females / Composition of total income in 2015 of the population aged 15 years and over in private households (%) - 100% data / Government transfers (%)
+COL358 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL359 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without total income
+COL360 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / With total income
+COL361 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income
+COL362 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / Under $10,000 (including loss)
+COL363 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $10,000 to $19,999
+COL364 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $20,000 to $29,999
+COL365 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $30,000 to $39,999
+COL366 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $40,000 to $49,999
+COL367 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $50,000 to $59,999
+COL368 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $60,000 to $69,999
+COL369 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $70,000 to $79,999
+COL370 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $80,000 to $89,999
+COL371 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $90,000 to $99,999
+COL372 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over
+COL373 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $100,000 to $149,999
+COL374 - Income - Females / Total - Total income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with total income / $100,000 and over / $150,000 and over
+COL375 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL376 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without after-tax income
+COL377 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / With after-tax income
+COL378 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income
+COL379 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / Under $10,000 (including loss)
+COL380 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $10,000 to $19,999
+COL381 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $20,000 to $29,999
+COL382 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $30,000 to $39,999
+COL383 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $40,000 to $49,999
+COL384 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $50,000 to $59,999
+COL385 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $60,000 to $69,999
+COL386 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $70,000 to $79,999
+COL387 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over
+COL388 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $80,000 to $89,999
+COL389 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $90,000 to $99,999
+COL390 - Income - Females / Total - After-tax income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with after-tax income / $80,000 and over / $100,000 and over
+COL391 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data
+COL392 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Without employment income
+COL393 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / With employment income
+COL394 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income
+COL395 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / Under $5,000 (including loss)
+COL396 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $5,000 to $9,999
+COL397 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $10,000 to $19,999
+COL398 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $20,000 to $29,999
+COL399 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $30,000 to $39,999
+COL400 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $40,000 to $49,999
+COL401 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $50,000 to $59,999
+COL402 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $60,000 to $69,999
+COL403 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $70,000 to $79,999
+COL404 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over
+COL405 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $80,000 to $89,999
+COL406 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $90,000 to $99,999
+COL407 - Income - Females / Total - Employment income groups in 2015 for the population aged 15 years and over in private households - 100% data / Percentage with employment income / $80,000 and over / $100,000 and over
+COL408 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data
+COL409 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median total income of households in 2015 ($)
+COL410 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($)
+COL411 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data
+COL412 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median total income of one-person households in 2015 ($)
+COL413 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 100% data / Median after-tax income of one-person households in 2015 ($)
+COL414 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data
+COL415 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median total income of two-or-more-person households in 2015 ($)
+COL416 - Income - Females / Total - Income statistics in 2015 for private households by household size - 100% data / Median after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 100% data / Median after-tax income of two-or-more-person households in 2015 ($)
+COL417 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data
+COL418 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / Under $5,000
+COL419 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL420 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL421 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL422 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL423 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL424 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL425 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL426 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL427 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL428 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL429 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL430 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL431 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL432 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL433 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over
+COL434 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL435 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL436 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 to $199,999
+COL437 - Income - Females / Total - Household total income groups in 2015 for private households - 100% data / $100,000 and over / $200,000 and over
+COL438 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data
+COL439 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / Under $5,000
+COL440 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $5,000 to $9,999
+COL441 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $10,000 to $14,999
+COL442 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $15,000 to $19,999
+COL443 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $20,000 to $24,999
+COL444 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $25,000 to $29,999
+COL445 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $30,000 to $34,999
+COL446 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $35,000 to $39,999
+COL447 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $40,000 to $44,999
+COL448 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $45,000 to $49,999
+COL449 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $50,000 to $59,999
+COL450 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $60,000 to $69,999
+COL451 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $70,000 to $79,999
+COL452 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $80,000 to $89,999
+COL453 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $90,000 to $99,999
+COL454 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over
+COL455 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $100,000 to $124,999
+COL456 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $125,000 to $149,999
+COL457 - Income - Females / Total - Household after-tax income groups in 2015 for private households - 100% data / $100,000 and over / $150,000 and over
+COL458 - Income - Females / Total - Income statistics in 2015 for economic families in private households - 100% data
+COL459 - Income - Females / Total - Income statistics in 2015 for economic families in private households - 100% data / Median total income of economic families in 2015 ($)
+COL460 - Income - Females / Total - Income statistics in 2015 for economic families in private households - 100% data / Median after-tax income of economic families in 2015 ($)
+COL461 - Income - Females / Total - Income statistics in 2015 for economic families in private households - 100% data / Average family size of economic families
+COL462 - Income - Females / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data
+COL463 - Income - Females / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median total income of couple economic families without children or other relatives in 2015 ($)
+COL464 - Income - Females / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Median after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL465 - Income - Females / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 100% data / Average family size of couple economic families without children or other relatives
+COL466 - Income - Females / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data
+COL467 - Income - Females / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median total income of couple economic families with children in 2015 ($)
+COL468 - Income - Females / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Median after-tax income of couple economic families with children in 2015 ($)
+COL469 - Income - Females / Total - Income statistics in 2015 for couple economic families with children in private households - 100% data / Average family size of couple economic families with children
+COL470 - Income - Females / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data,
+COL471 - Income - Females / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median total income of lone-parent economic families in 2015 ($)
+COL472 - Income - Females / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Median after-tax income of lone-parent economic families in 2015 ($)
+COL473 - Income - Females / Total - Income statistics in 2015 for lone-parent economic families in private households - 100% data, / Average family size of lone-parent economic families
+COL474 - Income - Females / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data
+COL475 - Income - Females / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL476 - Income - Females / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 100% data / Median after-tax income in 2015 for persons aged 15 years and over not in economic families ($)
+COL477 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data
+COL478 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution
+COL479 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the bottom decile
+COL480 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the second decile
+COL481 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the third decile
+COL482 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fourth decile
+COL483 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the bottom half of the distribution / In the fifth decile
+COL484 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution
+COL485 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the sixth decile
+COL486 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the seventh decile
+COL487 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the eighth decile
+COL488 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the ninth decile
+COL489 - Income - Females / Total - Economic family income decile group for the population in private households - 100% data / In the top half of the distribution / In the top decile
+COL490 - Income - Females / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data
+COL491 - Income - Females / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years
+COL492 - Income - Females / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 0 to 17 years / 0 to 5 years
+COL493 - Income - Females / Total - Low-income status in 2015 for the population in private households to whom low-income concepts are applicable - 100% data / 18 to 64 years
+COL494 - Income - Females / In low income based on the Low-income measure, after tax (LIM-AT)
+COL495 - Income - Females / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years
+COL496 - Income - Females / In low income based on the Low-income measure, after tax (LIM-AT) / 0 to 17 years / 0 to 5 years
+COL497 - Income - Females / In low income based on the Low-income measure, after tax (LIM-AT) / 18 to 64 years
+COL498 - Income - Females / In low income based on the Low-income measure, after tax (LIM-AT) / 65 years and over
+COL499 - Income - Females / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%)
+COL500 - Income - Females / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%)
+COL501 - Income - Females / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL502 - Income - Females / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 18 to 64 years (%)
+COL503 - Income - Females / Prevalence of low income based on the Low-income measure, after tax (LIM-AT) (%) / 65 years and over (%)
+COL504 - Income - Females / In low income based on the Low-income cut-offs, after tax (LICO-AT)
+COL505 - Income - Females / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years
+COL506 - Income - Females / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 0 to 17 years / 0 to 5 years
+COL507 - Income - Females / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 18 to 64 years
+COL508 - Income - Females / In low income based on the Low-income cut-offs, after tax (LICO-AT) / 65 years and over
+COL509 - Income - Females / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)
+COL510 - Income - Females / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%)
+COL511 - Income - Females / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 0 to 17 years (%) / 0 to 5 years (%)
+COL512 - Income - Females / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 18 to 64 years (%)
+COL513 - Income - Females / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%) / 65 years and over (%)
+COL514 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data
+COL515 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data
+COL516 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data / Average total income in 2015 among recipients ($)
+COL517 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data
+COL518 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data / Average after-tax income in 2015 among recipients ($)
+COL519 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data
+COL520 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data / Average market income in 2015 among recipients ($)
+COL521 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data
+COL522 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data / Average government transfers in 2015 among recipients ($)
+COL523 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data
+COL524 - Income - Total Sex (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data / Average employment income in 2015 among recipients ($)
+COL525 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data
+COL526 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average total income of households in 2015 ($)
+COL527 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($)
+COL528 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data
+COL529 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average total income of one-person households in 2015 ($)
+COL530 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average after-tax income of one-person households in 2015 ($)
+COL531 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data
+COL532 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average total income of two-or-more-person households in 2015 ($)
+COL533 - Income - Total Sex (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average after-tax income of two-or-more-person households in 2015 ($)
+COL534 - Income - Total Sex (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data
+COL535 - Income - Total Sex (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average total income of economic families in 2015 ($)
+COL536 - Income - Total Sex (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average after-tax income of economic families in 2015 ($)
+COL537 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data
+COL538 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average total income of couple economic families without children or other relatives in 2015 ($)
+COL539 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL540 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data
+COL541 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average total income of couple economic families with children in 2015 ($)
+COL542 - Income - Total Sex (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average after-tax income of couple economic families with children in 2015 ($)
+COL543 - Income - Total Sex (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data
+COL544 - Income - Total Sex (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average total income of lone-parent economic families in 2015 ($)
+COL545 - Income - Total Sex (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average after-tax income of lone-parent economic families in 2015 ($)
+COL546 - Income - Total Sex (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data
+COL547 - Income - Total Sex (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL548 - Income - Total Sex (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average after-tax income in 2015 for persons aged 15 years and over not in economic families ($)
+COL549 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data
+COL550 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data
+COL551 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data / Average total income in 2015 among recipients ($)
+COL552 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data
+COL553 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data / Average after-tax income in 2015 among recipients ($)
+COL554 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data
+COL555 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data / Average market income in 2015 among recipients ($)
+COL556 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data
+COL557 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data / Average government transfers in 2015 among recipients ($)
+COL558 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data
+COL559 - Income - Males (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data / Average employment income in 2015 among recipients ($)
+COL560 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data
+COL561 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average total income of households in 2015 ($)
+COL562 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($)
+COL563 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data
+COL564 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average total income of one-person households in 2015 ($)
+COL565 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average after-tax income of one-person households in 2015 ($)
+COL566 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data
+COL567 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average total income of two-or-more-person households in 2015 ($)
+COL568 - Income - Males (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average after-tax income of two-or-more-person households in 2015 ($)
+COL569 - Income - Males (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data
+COL570 - Income - Males (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average total income of economic families in 2015 ($)
+COL571 - Income - Males (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average after-tax income of economic families in 2015 ($)
+COL572 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data
+COL573 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average total income of couple economic families without children or other relatives in 2015 ($)
+COL574 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL575 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data
+COL576 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average total income of couple economic families with children in 2015 ($)
+COL577 - Income - Males (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average after-tax income of couple economic families with children in 2015 ($)
+COL578 - Income - Males (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data
+COL579 - Income - Males (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average total income of lone-parent economic families in 2015 ($)
+COL580 - Income - Males (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average after-tax income of lone-parent economic families in 2015 ($)
+COL581 - Income - Males (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data
+COL582 - Income - Males (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL583 - Income - Males (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average after-tax income in 2015 for persons aged 15 years and over not in economic families ($)
+COL584 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data
+COL585 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data
+COL586 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of total income recipients aged 15 years and over in private households - 25% sample data / Average total income in 2015 among recipients ($)
+COL587 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data
+COL588 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of after-tax income recipients aged 15 years and over in private households - 25% sample data / Average after-tax income in 2015 among recipients ($)
+COL589 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data
+COL590 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of market income recipients aged 15 years and over in private households - 25% sample data / Average market income in 2015 among recipients ($)
+COL591 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data
+COL592 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of government transfers recipients aged 15 years and over in private households - 25% sample data / Average government transfers in 2015 among recipients ($)
+COL593 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data
+COL594 - Income - Females (Average) / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 25% sample data / Number of employment income recipients aged 15 years and over in private households - 25% sample data / Average employment income in 2015 among recipients ($)
+COL595 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data
+COL596 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average total income of households in 2015 ($)
+COL597 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($)
+COL598 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data
+COL599 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average total income of one-person households in 2015 ($)
+COL600 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for one-person private households - 25% sample data / Average after-tax income of one-person households in 2015 ($)
+COL601 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data
+COL602 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average total income of two-or-more-person households in 2015 ($)
+COL603 - Income - Females (Average) / Total - Income statistics in 2015 for private households by household size - 25% sample data / Average after-tax income of households in 2015 ($) / Total - Income statistics in 2015 for two-or-more-person private households - 25% sample data / Average after-tax income of two-or-more-person households in 2015 ($)
+COL604 - Income - Females (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data
+COL605 - Income - Females (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average total income of economic families in 2015 ($)
+COL606 - Income - Females (Average) / Total - Income statistics in 2015 for economic families in private households - 25% sample data / Average after-tax income of economic families in 2015 ($)
+COL607 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data
+COL608 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average total income of couple economic families without children or other relatives in 2015 ($)
+COL609 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families without children or other relatives in private households - 25% sample data / Average after-tax income of couple economic families without children or other relatives in 2015 ($)
+COL610 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data
+COL611 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average total income of couple economic families with children in 2015 ($)
+COL612 - Income - Females (Average) / Total - Income statistics in 2015 for couple economic families with children in private households - 25% sample data / Average after-tax income of couple economic families with children in 2015 ($)
+COL613 - Income - Females (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data
+COL614 - Income - Females (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average total income of lone-parent economic families in 2015 ($)
+COL615 - Income - Females (Average) / Total - Income statistics in 2015 for lone-parent economic families in private households - 25% sample data / Average after-tax income of lone-parent economic families in 2015 ($)
+COL616 - Income - Females (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data
+COL617 - Income - Females (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average total income in 2015 for persons aged 15 years and over not in economic families ($)
+COL618 - Income - Females (Average) / Total - Income statistics in 2015 for persons aged 15 years and over not in economic families in private households - 25% sample data / Average after-tax income in 2015 for persons aged 15 years and over not in economic families ($)

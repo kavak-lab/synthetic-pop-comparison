@@ -1,0 +1,182 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data
+COL2 - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force
+COL3 - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Employed
+COL4 - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Unemployed
+COL5 - Labour - Total Sex / Total - Population aged 15 years and over by Labour force status - 25% sample data / Not in the labour force
+COL6 - Labour - Total Sex / Participation rate
+COL7 - Labour - Total Sex / Employment rate
+COL8 - Labour - Total Sex / Unemployment rate
+COL9 - Labour - Total Sex / Total population aged 15 years and over by work activity during the reference year - 25% sample data
+COL10 - Labour - Total Sex / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Did not work
+COL11 - Labour - Total Sex / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked
+COL12 - Labour - Total Sex / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked full year, full time
+COL13 - Labour - Total Sex / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked part year and/or part time
+COL14 - Labour - Total Sex / Average weeks worked in reference year
+COL15 - Labour - Total Sex / Total labour force aged 15 years and over by class of worker - 25% sample data
+COL16 - Labour - Total Sex / Total labour force aged 15 years and over by class of worker - 25% sample data / Class of worker - not applicable
+COL17 - Labour - Total Sex / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers
+COL18 - Labour - Total Sex / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Employee
+COL19 - Labour - Total Sex / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Self-employed
+COL20 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data
+COL21 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / Occupation - not applicable
+COL22 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations
+COL23 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 0 Management occupations
+COL24 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 1 Business, finance and administration occupations
+COL25 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 2 Natural and applied sciences and related occupations
+COL26 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 3 Health occupations
+COL27 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 4 Occupations in education, law and social, community and government services
+COL28 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 5 Occupations in art, culture, recreation and sport
+COL29 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 6 Sales and service occupations
+COL30 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 7 Trades, transport and equipment operators and related occupations
+COL31 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 8 Natural resources, agriculture and related production occupations
+COL32 - Labour - Total Sex / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 9 Occupations in manufacturing and utilities
+COL33 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data
+COL34 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / Industry - NAICS2012 - not applicable
+COL35 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories
+COL36 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 11 Agriculture, forestry, fishing and hunting
+COL37 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 21 Mining, quarrying, and oil and gas extraction
+COL38 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 22 Utilities
+COL39 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 23 Construction
+COL40 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 31-33 Manufacturing
+COL41 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 41 Wholesale trade
+COL42 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 44-45 Retail trade
+COL43 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 48-49 Transportation and warehousing
+COL44 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 51 Information and cultural industries
+COL45 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 52 Finance and insurance
+COL46 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 53 Real estate and rental and leasing
+COL47 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 54 Professional, scientific and technical services
+COL48 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 55 Management of companies and enterprises
+COL49 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 56 Administrative and support, waste management and remediation services
+COL50 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 61 Educational services
+COL51 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 62 Health care and social assistance
+COL52 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 71 Arts, entertainment and recreation
+COL53 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 72 Accommodation and food services
+COL54 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 81 Other services (except public administration)
+COL55 - Labour - Total Sex / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 91 Public administration
+COL56 - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data
+COL57 - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at home
+COL58 - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked outside Canada
+COL59 - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / No fixed workplace address
+COL60 - Labour - Total Sex / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at usual place
+COL61 - Labour - Males / Total - Population aged 15 years and over by Labour force status - 25% sample data
+COL62 - Labour - Males / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force
+COL63 - Labour - Males / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Employed
+COL64 - Labour - Males / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Unemployed
+COL65 - Labour - Males / Total - Population aged 15 years and over by Labour force status - 25% sample data / Not in the labour force
+COL66 - Labour - Males / Participation rate
+COL67 - Labour - Males / Employment rate
+COL68 - Labour - Males / Unemployment rate
+COL69 - Labour - Males / Total population aged 15 years and over by work activity during the reference year - 25% sample data
+COL70 - Labour - Males / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Did not work
+COL71 - Labour - Males / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked
+COL72 - Labour - Males / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked full year, full time
+COL73 - Labour - Males / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked part year and/or part time
+COL74 - Labour - Males / Average weeks worked in reference year
+COL75 - Labour - Males / Total labour force aged 15 years and over by class of worker - 25% sample data
+COL76 - Labour - Males / Total labour force aged 15 years and over by class of worker - 25% sample data / Class of worker - not applicable
+COL77 - Labour - Males / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers
+COL78 - Labour - Males / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Employee
+COL79 - Labour - Males / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Self-employed
+COL80 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data
+COL81 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / Occupation - not applicable
+COL82 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations
+COL83 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 0 Management occupations
+COL84 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 1 Business, finance and administration occupations
+COL85 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 2 Natural and applied sciences and related occupations
+COL86 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 3 Health occupations
+COL87 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 4 Occupations in education, law and social, community and government services
+COL88 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 5 Occupations in art, culture, recreation and sport
+COL89 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 6 Sales and service occupations
+COL90 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 7 Trades, transport and equipment operators and related occupations
+COL91 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 8 Natural resources, agriculture and related production occupations
+COL92 - Labour - Males / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 9 Occupations in manufacturing and utilities
+COL93 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data
+COL94 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / Industry - NAICS2012 - not applicable
+COL95 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories
+COL96 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 11 Agriculture, forestry, fishing and hunting
+COL97 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 21 Mining, quarrying, and oil and gas extraction
+COL98 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 22 Utilities
+COL99 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 23 Construction
+COL100 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 31-33 Manufacturing
+COL101 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 41 Wholesale trade
+COL102 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 44-45 Retail trade
+COL103 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 48-49 Transportation and warehousing
+COL104 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 51 Information and cultural industries
+COL105 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 52 Finance and insurance
+COL106 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 53 Real estate and rental and leasing
+COL107 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 54 Professional, scientific and technical services
+COL108 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 55 Management of companies and enterprises
+COL109 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 56 Administrative and support, waste management and remediation services
+COL110 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 61 Educational services
+COL111 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 62 Health care and social assistance
+COL112 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 71 Arts, entertainment and recreation
+COL113 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 72 Accommodation and food services
+COL114 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 81 Other services (except public administration)
+COL115 - Labour - Males / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 91 Public administration
+COL116 - Labour - Males / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data
+COL117 - Labour - Males / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at home
+COL118 - Labour - Males / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked outside Canada
+COL119 - Labour - Males / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / No fixed workplace address
+COL120 - Labour - Males / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at usual place
+COL121 - Labour - Females / Total - Population aged 15 years and over by Labour force status - 25% sample data
+COL122 - Labour - Females / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force
+COL123 - Labour - Females / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Employed
+COL124 - Labour - Females / Total - Population aged 15 years and over by Labour force status - 25% sample data / In the labour force / Unemployed
+COL125 - Labour - Females / Total - Population aged 15 years and over by Labour force status - 25% sample data / Not in the labour force
+COL126 - Labour - Females / Participation rate
+COL127 - Labour - Females / Employment rate
+COL128 - Labour - Females / Unemployment rate
+COL129 - Labour - Females / Total population aged 15 years and over by work activity during the reference year - 25% sample data
+COL130 - Labour - Females / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Did not work
+COL131 - Labour - Females / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked
+COL132 - Labour - Females / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked full year, full time
+COL133 - Labour - Females / Total population aged 15 years and over by work activity during the reference year - 25% sample data / Worked / Worked part year and/or part time
+COL134 - Labour - Females / Average weeks worked in reference year
+COL135 - Labour - Females / Total labour force aged 15 years and over by class of worker - 25% sample data
+COL136 - Labour - Females / Total labour force aged 15 years and over by class of worker - 25% sample data / Class of worker - not applicable
+COL137 - Labour - Females / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers
+COL138 - Labour - Females / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Employee
+COL139 - Labour - Females / Total labour force aged 15 years and over by class of worker - 25% sample data / All classes of workers / Self-employed
+COL140 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data
+COL141 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / Occupation - not applicable
+COL142 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations
+COL143 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 0 Management occupations
+COL144 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 1 Business, finance and administration occupations
+COL145 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 2 Natural and applied sciences and related occupations
+COL146 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 3 Health occupations
+COL147 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 4 Occupations in education, law and social, community and government services
+COL148 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 5 Occupations in art, culture, recreation and sport
+COL149 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 6 Sales and service occupations
+COL150 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 7 Trades, transport and equipment operators and related occupations
+COL151 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 8 Natural resources, agriculture and related production occupations
+COL152 - Labour - Females / Total labour force population aged 15 years and over by occupation - National Occupational Classification (NOC) 2016 - 25% sample data / All occupations / 9 Occupations in manufacturing and utilities
+COL153 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data
+COL154 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / Industry - NAICS2012 - not applicable
+COL155 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories
+COL156 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 11 Agriculture, forestry, fishing and hunting
+COL157 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 21 Mining, quarrying, and oil and gas extraction
+COL158 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 22 Utilities
+COL159 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 23 Construction
+COL160 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 31-33 Manufacturing
+COL161 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 41 Wholesale trade
+COL162 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 44-45 Retail trade
+COL163 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 48-49 Transportation and warehousing
+COL164 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 51 Information and cultural industries
+COL165 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 52 Finance and insurance
+COL166 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 53 Real estate and rental and leasing
+COL167 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 54 Professional, scientific and technical services
+COL168 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 55 Management of companies and enterprises
+COL169 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 56 Administrative and support, waste management and remediation services
+COL170 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 61 Educational services
+COL171 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 62 Health care and social assistance
+COL172 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 71 Arts, entertainment and recreation
+COL173 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 72 Accommodation and food services
+COL174 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 81 Other services (except public administration)
+COL175 - Labour - Females / Total Labour Force population aged 15 years and over by Industry - North American Industry Classification System (NAICS) 2012 - 25% sample data / All industry categories / 91 Public administration
+COL176 - Labour - Females / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data
+COL177 - Labour - Females / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at home
+COL178 - Labour - Females / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked outside Canada
+COL179 - Labour - Females / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / No fixed workplace address
+COL180 - Labour - Females / Total - Place of work status for the employed labour force aged 15 years and over in private households - 25% sample data / Worked at usual place

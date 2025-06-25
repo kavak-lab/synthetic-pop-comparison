@@ -1,0 +1,29 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes
+COL2 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Married or living common law ; Both sexes
+COL3 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Married or living common law ; Both sexes / Married ; Both sexes
+COL4 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Married or living common law ; Both sexes / Living common law ; Both sexes
+COL5 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Not married and not living common law ; Both sexes
+COL6 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Not married and not living common law ; Both sexes / Never married ; Both sexes
+COL7 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Not married and not living common law ; Both sexes / Separated ; Both sexes
+COL8 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Not married and not living common law ; Both sexes / Divorced ; Both sexes
+COL9 - Marital Status - Both Sexes / Total - Marital status for the population aged 15 years and over - 100% data ; Both sexes / Not married and not living common law ; Both sexes / Widowed ; Both sexes
+COL10 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males
+COL11 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Married or living common law ; Males
+COL12 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Married or living common law ; Males / Married ; Males
+COL13 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Married or living common law ; Males / Living common law ; Males
+COL14 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Not married and not living common law ; Males
+COL15 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Not married and not living common law ; Males / Never married ; Males
+COL16 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Not married and not living common law ; Males / Separated ; Males
+COL17 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Not married and not living common law ; Males / Divorced ; Males
+COL18 - Marital Status - Males / Total - Marital status for the population aged 15 years and over - 100% data ; Males / Not married and not living common law ; Males / Widowed ; Males
+COL19 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females
+COL20 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Married or living common law ; Females
+COL21 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Married or living common law ; Females / Married ; Females
+COL22 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Married or living common law ; Females / Living common law ; Females
+COL23 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Not married and not living common law ; Females
+COL24 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Not married and not living common law ; Females / Never married ; Females
+COL25 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Not married and not living common law ; Females / Separated ; Females
+COL26 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Not married and not living common law ; Females / Divorced ; Females
+COL27 - Marital Status - Females / Total - Marital status for the population aged 15 years and over - 100% data ; Females / Not married and not living common law ; Females / Widowed ; Females

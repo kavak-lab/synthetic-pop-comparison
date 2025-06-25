@@ -1,0 +1,839 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data
+COL2 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins
+COL3 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / First Nations (North American Indian)
+COL4 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Inuit
+COL5 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Métis
+COL6 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins
+COL7 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Acadian
+COL8 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / American
+COL9 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Canadian
+COL10 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / New Brunswicker
+COL11 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Newfoundlander
+COL12 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Nova Scotian
+COL13 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Ontarian
+COL14 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Québécois
+COL15 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Other North American origins, n.i.e.
+COL16 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins
+COL17 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins
+COL18 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Channel Islander
+COL19 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Cornish
+COL20 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / English
+COL21 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Irish
+COL22 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Manx
+COL23 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Scottish
+COL24 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Welsh
+COL25 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / British Isles origins, n.i.e.
+COL26 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins
+COL27 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Alsatian
+COL28 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Breton
+COL29 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Corsican
+COL30 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / French
+COL31 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins)
+COL32 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Austrian
+COL33 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Bavarian
+COL34 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Belgian
+COL35 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Dutch
+COL36 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Flemish
+COL37 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Frisian
+COL38 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / German
+COL39 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Luxembourger
+COL40 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Swiss
+COL41 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Western European origins, n.i.e.
+COL42 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins)
+COL43 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Danish
+COL44 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Finnish
+COL45 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Icelandic
+COL46 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Norwegian
+COL47 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Swedish
+COL48 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Northern European origins, n.i.e.
+COL49 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins
+COL50 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Bulgarian
+COL51 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Byelorussian
+COL52 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czech
+COL53 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czechoslovakian, n.o.s.
+COL54 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Estonian
+COL55 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Hungarian
+COL56 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Latvian
+COL57 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Lithuanian
+COL58 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Moldovan
+COL59 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Polish
+COL60 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Romanian
+COL61 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Russian
+COL62 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Slovak
+COL63 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Ukrainian
+COL64 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Eastern European origins, n.i.e.
+COL65 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins
+COL66 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Albanian
+COL67 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Bosnian
+COL68 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Catalan
+COL69 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Croatian
+COL70 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Cypriot
+COL71 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Greek
+COL72 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Italian
+COL73 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Kosovar
+COL74 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Macedonian
+COL75 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Maltese
+COL76 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Montenegrin
+COL77 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Portuguese
+COL78 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Serbian
+COL79 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Sicilian
+COL80 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Slovenian
+COL81 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Spanish
+COL82 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Yugoslavian, n.o.s.
+COL83 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Southern European origins, n.i.e.
+COL84 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins
+COL85 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Basque
+COL86 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Jewish
+COL87 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Roma (Gypsy)
+COL88 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Slavic, n.o.s.
+COL89 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Other European origins, n.i.e.
+COL90 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins
+COL91 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Antiguan
+COL92 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bahamian
+COL93 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Barbadian
+COL94 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bermudan
+COL95 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Carib
+COL96 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Cuban
+COL97 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Dominican
+COL98 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Grenadian
+COL99 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Guadeloupean
+COL100 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Haitian
+COL101 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Jamaican
+COL102 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Kittitian/Nevisian
+COL103 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Martinican
+COL104 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Montserratan
+COL105 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Puerto Rican
+COL106 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / St. Lucian
+COL107 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Trinidadian/Tobagonian
+COL108 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Vincentian/Grenadinian
+COL109 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / West Indian, n.o.s.
+COL110 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Caribbean origins, n.i.e.
+COL111 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins
+COL112 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Aboriginal from Central/South America (except Arawak and Maya)
+COL113 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Arawak
+COL114 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Argentinian
+COL115 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Belizean
+COL116 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Bolivian
+COL117 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Brazilian
+COL118 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Chilean
+COL119 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Colombian
+COL120 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Costa Rican
+COL121 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Ecuadorian
+COL122 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guatemalan
+COL123 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guyanese
+COL124 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Hispanic
+COL125 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Honduran
+COL126 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Maya
+COL127 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Mexican
+COL128 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Nicaraguan
+COL129 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Panamanian
+COL130 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Paraguayan
+COL131 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Peruvian
+COL132 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Salvadorean
+COL133 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Uruguayan
+COL134 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Venezuelan
+COL135 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Latin, Central and South American origins, n.i.e.
+COL136 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins
+COL137 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins
+COL138 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Akan
+COL139 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Angolan
+COL140 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ashanti
+COL141 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Beninese
+COL142 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Burkinabe
+COL143 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Cameroonian
+COL144 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Chadian
+COL145 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Congolese
+COL146 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Edo
+COL147 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ewe
+COL148 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gabonese
+COL149 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gambian
+COL150 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ghanaian
+COL151 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Guinean
+COL152 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ibo
+COL153 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ivorian
+COL154 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Liberian
+COL155 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malian
+COL156 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malinké
+COL157 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Nigerian
+COL158 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Peulh
+COL159 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Senegalese
+COL160 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Sierra Leonean
+COL161 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Togolese
+COL162 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Wolof
+COL163 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Yoruba
+COL164 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Central and West African origins, n.i.e.
+COL165 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins
+COL166 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Algerian
+COL167 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Berber
+COL168 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Coptic
+COL169 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Dinka
+COL170 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Egyptian
+COL171 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Libyan
+COL172 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Maure
+COL173 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Moroccan
+COL174 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Sudanese
+COL175 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Tunisian
+COL176 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / North African origins, n.i.e.
+COL177 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins
+COL178 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Afrikaner
+COL179 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Amhara
+COL180 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Bantu, n.o.s.
+COL181 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Burundian
+COL182 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Djiboutian
+COL183 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Eritrean
+COL184 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ethiopian
+COL185 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Harari
+COL186 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Kenyan
+COL187 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Malagasy
+COL188 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Mauritian
+COL189 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Oromo
+COL190 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Rwandan
+COL191 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Seychellois
+COL192 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Somali
+COL193 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / South African
+COL194 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tanzanian
+COL195 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tigrian
+COL196 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ugandan
+COL197 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zambian
+COL198 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zimbabwean
+COL199 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zulu
+COL200 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Southern and East African origins, n.i.e.
+COL201 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins
+COL202 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Black, n.o.s.
+COL203 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Other African origins, n.i.e.
+COL204 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins
+COL205 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins
+COL206 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Afghan
+COL207 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Arab, n.o.s.
+COL208 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Armenian
+COL209 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Assyrian
+COL210 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Azerbaijani
+COL211 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Georgian
+COL212 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Hazara
+COL213 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iranian
+COL214 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iraqi
+COL215 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Israeli
+COL216 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Jordanian
+COL217 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kazakh
+COL218 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kurd
+COL219 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kuwaiti
+COL220 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kyrgyz
+COL221 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Lebanese
+COL222 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Palestinian
+COL223 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Pashtun
+COL224 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Saudi Arabian
+COL225 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Syrian
+COL226 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tajik
+COL227 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tatar
+COL228 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turk
+COL229 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turkmen
+COL230 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uighur
+COL231 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uzbek
+COL232 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Yemeni
+COL233 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / West Central Asian and Middle Eastern origins, n.i.e.
+COL234 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins
+COL235 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bangladeshi
+COL236 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bengali
+COL237 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bhutanese
+COL238 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / East Indian
+COL239 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Goan
+COL240 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Gujarati
+COL241 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Kashmiri
+COL242 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Nepali
+COL243 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Pakistani
+COL244 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Punjabi
+COL245 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sinhalese
+COL246 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sri Lankan
+COL247 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Tamil
+COL248 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / South Asian origins, n.i.e.
+COL249 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins
+COL250 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Burmese
+COL251 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Cambodian (Khmer)
+COL252 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Chinese
+COL253 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Filipino
+COL254 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Hmong
+COL255 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Indonesian
+COL256 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Japanese
+COL257 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Karen
+COL258 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Korean
+COL259 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Laotian
+COL260 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Malaysian
+COL261 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Mongolian
+COL262 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Singaporean
+COL263 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Taiwanese
+COL264 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Thai
+COL265 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Tibetan
+COL266 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Vietnamese
+COL267 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / East and Southeast Asian origins, n.i.e.
+COL268 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins
+COL269 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins / Other Asian origins, n.i.e.
+COL270 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins
+COL271 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Australian
+COL272 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / New Zealander
+COL273 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins
+COL274 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Fijian
+COL275 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Hawaiian
+COL276 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Maori
+COL277 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Polynesian, n.o.s.
+COL278 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Samoan
+COL279 - Ethnic Origin - Total Sex / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Pacific Islands origins, n.i.e.
+COL280 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data
+COL281 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins
+COL282 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / First Nations (North American Indian)
+COL283 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Inuit
+COL284 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Métis
+COL285 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins
+COL286 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Acadian
+COL287 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / American
+COL288 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Canadian
+COL289 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / New Brunswicker
+COL290 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Newfoundlander
+COL291 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Nova Scotian
+COL292 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Ontarian
+COL293 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Québécois
+COL294 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Other North American origins, n.i.e.
+COL295 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins
+COL296 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins
+COL297 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Channel Islander
+COL298 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Cornish
+COL299 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / English
+COL300 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Irish
+COL301 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Manx
+COL302 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Scottish
+COL303 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Welsh
+COL304 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / British Isles origins, n.i.e.
+COL305 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins
+COL306 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Alsatian
+COL307 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Breton
+COL308 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Corsican
+COL309 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / French
+COL310 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins)
+COL311 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Austrian
+COL312 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Bavarian
+COL313 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Belgian
+COL314 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Dutch
+COL315 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Flemish
+COL316 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Frisian
+COL317 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / German
+COL318 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Luxembourger
+COL319 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Swiss
+COL320 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Western European origins, n.i.e.
+COL321 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins)
+COL322 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Danish
+COL323 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Finnish
+COL324 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Icelandic
+COL325 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Norwegian
+COL326 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Swedish
+COL327 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Northern European origins, n.i.e.
+COL328 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins
+COL329 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Bulgarian
+COL330 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Byelorussian
+COL331 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czech
+COL332 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czechoslovakian, n.o.s.
+COL333 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Estonian
+COL334 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Hungarian
+COL335 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Latvian
+COL336 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Lithuanian
+COL337 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Moldovan
+COL338 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Polish
+COL339 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Romanian
+COL340 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Russian
+COL341 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Slovak
+COL342 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Ukrainian
+COL343 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Eastern European origins, n.i.e.
+COL344 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins
+COL345 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Albanian
+COL346 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Bosnian
+COL347 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Catalan
+COL348 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Croatian
+COL349 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Cypriot
+COL350 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Greek
+COL351 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Italian
+COL352 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Kosovar
+COL353 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Macedonian
+COL354 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Maltese
+COL355 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Montenegrin
+COL356 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Portuguese
+COL357 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Serbian
+COL358 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Sicilian
+COL359 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Slovenian
+COL360 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Spanish
+COL361 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Yugoslavian, n.o.s.
+COL362 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Southern European origins, n.i.e.
+COL363 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins
+COL364 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Basque
+COL365 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Jewish
+COL366 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Roma (Gypsy)
+COL367 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Slavic, n.o.s.
+COL368 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Other European origins, n.i.e.
+COL369 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins
+COL370 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Antiguan
+COL371 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bahamian
+COL372 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Barbadian
+COL373 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bermudan
+COL374 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Carib
+COL375 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Cuban
+COL376 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Dominican
+COL377 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Grenadian
+COL378 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Guadeloupean
+COL379 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Haitian
+COL380 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Jamaican
+COL381 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Kittitian/Nevisian
+COL382 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Martinican
+COL383 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Montserratan
+COL384 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Puerto Rican
+COL385 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / St. Lucian
+COL386 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Trinidadian/Tobagonian
+COL387 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Vincentian/Grenadinian
+COL388 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / West Indian, n.o.s.
+COL389 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Caribbean origins, n.i.e.
+COL390 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins
+COL391 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Aboriginal from Central/South America (except Arawak and Maya)
+COL392 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Arawak
+COL393 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Argentinian
+COL394 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Belizean
+COL395 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Bolivian
+COL396 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Brazilian
+COL397 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Chilean
+COL398 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Colombian
+COL399 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Costa Rican
+COL400 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Ecuadorian
+COL401 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guatemalan
+COL402 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guyanese
+COL403 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Hispanic
+COL404 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Honduran
+COL405 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Maya
+COL406 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Mexican
+COL407 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Nicaraguan
+COL408 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Panamanian
+COL409 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Paraguayan
+COL410 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Peruvian
+COL411 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Salvadorean
+COL412 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Uruguayan
+COL413 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Venezuelan
+COL414 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Latin, Central and South American origins, n.i.e.
+COL415 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins
+COL416 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins
+COL417 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Akan
+COL418 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Angolan
+COL419 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ashanti
+COL420 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Beninese
+COL421 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Burkinabe
+COL422 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Cameroonian
+COL423 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Chadian
+COL424 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Congolese
+COL425 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Edo
+COL426 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ewe
+COL427 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gabonese
+COL428 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gambian
+COL429 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ghanaian
+COL430 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Guinean
+COL431 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ibo
+COL432 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ivorian
+COL433 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Liberian
+COL434 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malian
+COL435 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malinké
+COL436 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Nigerian
+COL437 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Peulh
+COL438 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Senegalese
+COL439 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Sierra Leonean
+COL440 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Togolese
+COL441 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Wolof
+COL442 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Yoruba
+COL443 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Central and West African origins, n.i.e.
+COL444 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins
+COL445 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Algerian
+COL446 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Berber
+COL447 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Coptic
+COL448 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Dinka
+COL449 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Egyptian
+COL450 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Libyan
+COL451 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Maure
+COL452 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Moroccan
+COL453 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Sudanese
+COL454 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Tunisian
+COL455 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / North African origins, n.i.e.
+COL456 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins
+COL457 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Afrikaner
+COL458 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Amhara
+COL459 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Bantu, n.o.s.
+COL460 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Burundian
+COL461 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Djiboutian
+COL462 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Eritrean
+COL463 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ethiopian
+COL464 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Harari
+COL465 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Kenyan
+COL466 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Malagasy
+COL467 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Mauritian
+COL468 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Oromo
+COL469 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Rwandan
+COL470 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Seychellois
+COL471 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Somali
+COL472 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / South African
+COL473 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tanzanian
+COL474 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tigrian
+COL475 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ugandan
+COL476 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zambian
+COL477 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zimbabwean
+COL478 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zulu
+COL479 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Southern and East African origins, n.i.e.
+COL480 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins
+COL481 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Black, n.o.s.
+COL482 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Other African origins, n.i.e.
+COL483 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins
+COL484 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins
+COL485 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Afghan
+COL486 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Arab, n.o.s.
+COL487 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Armenian
+COL488 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Assyrian
+COL489 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Azerbaijani
+COL490 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Georgian
+COL491 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Hazara
+COL492 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iranian
+COL493 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iraqi
+COL494 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Israeli
+COL495 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Jordanian
+COL496 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kazakh
+COL497 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kurd
+COL498 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kuwaiti
+COL499 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kyrgyz
+COL500 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Lebanese
+COL501 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Palestinian
+COL502 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Pashtun
+COL503 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Saudi Arabian
+COL504 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Syrian
+COL505 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tajik
+COL506 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tatar
+COL507 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turk
+COL508 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turkmen
+COL509 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uighur
+COL510 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uzbek
+COL511 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Yemeni
+COL512 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / West Central Asian and Middle Eastern origins, n.i.e.
+COL513 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins
+COL514 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bangladeshi
+COL515 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bengali
+COL516 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bhutanese
+COL517 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / East Indian
+COL518 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Goan
+COL519 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Gujarati
+COL520 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Kashmiri
+COL521 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Nepali
+COL522 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Pakistani
+COL523 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Punjabi
+COL524 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sinhalese
+COL525 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sri Lankan
+COL526 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Tamil
+COL527 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / South Asian origins, n.i.e.
+COL528 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins
+COL529 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Burmese
+COL530 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Cambodian (Khmer)
+COL531 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Chinese
+COL532 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Filipino
+COL533 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Hmong
+COL534 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Indonesian
+COL535 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Japanese
+COL536 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Karen
+COL537 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Korean
+COL538 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Laotian
+COL539 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Malaysian
+COL540 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Mongolian
+COL541 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Singaporean
+COL542 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Taiwanese
+COL543 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Thai
+COL544 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Tibetan
+COL545 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Vietnamese
+COL546 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / East and Southeast Asian origins, n.i.e.
+COL547 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins
+COL548 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins / Other Asian origins, n.i.e.
+COL549 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins
+COL550 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Australian
+COL551 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / New Zealander
+COL552 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins
+COL553 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Fijian
+COL554 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Hawaiian
+COL555 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Maori
+COL556 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Polynesian, n.o.s.
+COL557 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Samoan
+COL558 - Ethnic Origin - Males / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Pacific Islands origins, n.i.e.
+COL559 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data
+COL560 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins
+COL561 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / First Nations (North American Indian)
+COL562 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Inuit
+COL563 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / North American Aboriginal origins / Métis
+COL564 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins
+COL565 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Acadian
+COL566 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / American
+COL567 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Canadian
+COL568 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / New Brunswicker
+COL569 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Newfoundlander
+COL570 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Nova Scotian
+COL571 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Ontarian
+COL572 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Québécois
+COL573 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Other North American origins / Other North American origins, n.i.e.
+COL574 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins
+COL575 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins
+COL576 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Channel Islander
+COL577 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Cornish
+COL578 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / English
+COL579 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Irish
+COL580 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Manx
+COL581 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Scottish
+COL582 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / Welsh
+COL583 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / British Isles origins / British Isles origins, n.i.e.
+COL584 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins
+COL585 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Alsatian
+COL586 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Breton
+COL587 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / Corsican
+COL588 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / French origins / French
+COL589 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins)
+COL590 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Austrian
+COL591 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Bavarian
+COL592 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Belgian
+COL593 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Dutch
+COL594 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Flemish
+COL595 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Frisian
+COL596 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / German
+COL597 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Luxembourger
+COL598 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Swiss
+COL599 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Western European origins (except French origins) / Western European origins, n.i.e.
+COL600 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins)
+COL601 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Danish
+COL602 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Finnish
+COL603 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Icelandic
+COL604 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Norwegian
+COL605 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Swedish
+COL606 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Northern European origins (except British Isles origins) / Northern European origins, n.i.e.
+COL607 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins
+COL608 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Bulgarian
+COL609 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Byelorussian
+COL610 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czech
+COL611 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Czechoslovakian, n.o.s.
+COL612 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Estonian
+COL613 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Hungarian
+COL614 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Latvian
+COL615 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Lithuanian
+COL616 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Moldovan
+COL617 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Polish
+COL618 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Romanian
+COL619 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Russian
+COL620 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Slovak
+COL621 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Ukrainian
+COL622 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Eastern European origins / Eastern European origins, n.i.e.
+COL623 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins
+COL624 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Albanian
+COL625 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Bosnian
+COL626 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Catalan
+COL627 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Croatian
+COL628 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Cypriot
+COL629 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Greek
+COL630 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Italian
+COL631 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Kosovar
+COL632 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Macedonian
+COL633 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Maltese
+COL634 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Montenegrin
+COL635 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Portuguese
+COL636 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Serbian
+COL637 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Sicilian
+COL638 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Slovenian
+COL639 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Spanish
+COL640 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Yugoslavian, n.o.s.
+COL641 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Southern European origins / Southern European origins, n.i.e.
+COL642 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins
+COL643 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Basque
+COL644 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Jewish
+COL645 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Roma (Gypsy)
+COL646 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Slavic, n.o.s.
+COL647 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / European origins / Other European origins / Other European origins, n.i.e.
+COL648 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins
+COL649 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Antiguan
+COL650 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bahamian
+COL651 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Barbadian
+COL652 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Bermudan
+COL653 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Carib
+COL654 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Cuban
+COL655 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Dominican
+COL656 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Grenadian
+COL657 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Guadeloupean
+COL658 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Haitian
+COL659 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Jamaican
+COL660 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Kittitian/Nevisian
+COL661 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Martinican
+COL662 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Montserratan
+COL663 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Puerto Rican
+COL664 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / St. Lucian
+COL665 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Trinidadian/Tobagonian
+COL666 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Vincentian/Grenadinian
+COL667 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / West Indian, n.o.s.
+COL668 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Caribbean origins / Caribbean origins, n.i.e.
+COL669 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins
+COL670 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Aboriginal from Central/South America (except Arawak and Maya)
+COL671 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Arawak
+COL672 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Argentinian
+COL673 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Belizean
+COL674 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Bolivian
+COL675 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Brazilian
+COL676 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Chilean
+COL677 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Colombian
+COL678 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Costa Rican
+COL679 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Ecuadorian
+COL680 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guatemalan
+COL681 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Guyanese
+COL682 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Hispanic
+COL683 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Honduran
+COL684 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Maya
+COL685 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Mexican
+COL686 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Nicaraguan
+COL687 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Panamanian
+COL688 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Paraguayan
+COL689 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Peruvian
+COL690 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Salvadorean
+COL691 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Uruguayan
+COL692 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Venezuelan
+COL693 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Latin, Central and South American origins / Latin, Central and South American origins, n.i.e.
+COL694 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins
+COL695 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins
+COL696 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Akan
+COL697 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Angolan
+COL698 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ashanti
+COL699 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Beninese
+COL700 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Burkinabe
+COL701 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Cameroonian
+COL702 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Chadian
+COL703 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Congolese
+COL704 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Edo
+COL705 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ewe
+COL706 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gabonese
+COL707 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Gambian
+COL708 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ghanaian
+COL709 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Guinean
+COL710 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ibo
+COL711 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Ivorian
+COL712 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Liberian
+COL713 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malian
+COL714 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Malinké
+COL715 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Nigerian
+COL716 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Peulh
+COL717 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Senegalese
+COL718 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Sierra Leonean
+COL719 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Togolese
+COL720 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Wolof
+COL721 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Yoruba
+COL722 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Central and West African origins / Central and West African origins, n.i.e.
+COL723 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins
+COL724 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Algerian
+COL725 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Berber
+COL726 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Coptic
+COL727 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Dinka
+COL728 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Egyptian
+COL729 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Libyan
+COL730 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Maure
+COL731 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Moroccan
+COL732 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Sudanese
+COL733 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / Tunisian
+COL734 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / North African origins / North African origins, n.i.e.
+COL735 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins
+COL736 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Afrikaner
+COL737 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Amhara
+COL738 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Bantu, n.o.s.
+COL739 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Burundian
+COL740 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Djiboutian
+COL741 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Eritrean
+COL742 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ethiopian
+COL743 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Harari
+COL744 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Kenyan
+COL745 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Malagasy
+COL746 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Mauritian
+COL747 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Oromo
+COL748 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Rwandan
+COL749 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Seychellois
+COL750 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Somali
+COL751 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / South African
+COL752 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tanzanian
+COL753 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Tigrian
+COL754 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Ugandan
+COL755 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zambian
+COL756 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zimbabwean
+COL757 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Zulu
+COL758 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Southern and East African origins / Southern and East African origins, n.i.e.
+COL759 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins
+COL760 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Black, n.o.s.
+COL761 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / African origins / Other African origins / Other African origins, n.i.e.
+COL762 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins
+COL763 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins
+COL764 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Afghan
+COL765 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Arab, n.o.s.
+COL766 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Armenian
+COL767 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Assyrian
+COL768 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Azerbaijani
+COL769 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Georgian
+COL770 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Hazara
+COL771 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iranian
+COL772 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Iraqi
+COL773 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Israeli
+COL774 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Jordanian
+COL775 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kazakh
+COL776 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kurd
+COL777 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kuwaiti
+COL778 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Kyrgyz
+COL779 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Lebanese
+COL780 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Palestinian
+COL781 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Pashtun
+COL782 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Saudi Arabian
+COL783 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Syrian
+COL784 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tajik
+COL785 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Tatar
+COL786 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turk
+COL787 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Turkmen
+COL788 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uighur
+COL789 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Uzbek
+COL790 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / Yemeni
+COL791 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / West Central Asian and Middle Eastern origins / West Central Asian and Middle Eastern origins, n.i.e.
+COL792 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins
+COL793 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bangladeshi
+COL794 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bengali
+COL795 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Bhutanese
+COL796 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / East Indian
+COL797 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Goan
+COL798 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Gujarati
+COL799 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Kashmiri
+COL800 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Nepali
+COL801 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Pakistani
+COL802 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Punjabi
+COL803 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sinhalese
+COL804 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Sri Lankan
+COL805 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / Tamil
+COL806 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / South Asian origins / South Asian origins, n.i.e.
+COL807 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins
+COL808 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Burmese
+COL809 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Cambodian (Khmer)
+COL810 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Chinese
+COL811 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Filipino
+COL812 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Hmong
+COL813 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Indonesian
+COL814 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Japanese
+COL815 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Karen
+COL816 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Korean
+COL817 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Laotian
+COL818 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Malaysian
+COL819 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Mongolian
+COL820 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Singaporean
+COL821 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Taiwanese
+COL822 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Thai
+COL823 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Tibetan
+COL824 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / Vietnamese
+COL825 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / East and Southeast Asian origins / East and Southeast Asian origins, n.i.e.
+COL826 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins
+COL827 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Asian origins / Other Asian origins / Other Asian origins, n.i.e.
+COL828 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins
+COL829 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Australian
+COL830 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / New Zealander
+COL831 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins
+COL832 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Fijian
+COL833 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Hawaiian
+COL834 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Maori
+COL835 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Polynesian, n.o.s.
+COL836 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Samoan
+COL837 - Ethnic Origin - Females / Total - Ethnic origin for the population in private households - 25% sample data / Oceania origins / Pacific Islands origins / Pacific Islands origins, n.i.e.

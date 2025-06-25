@@ -1,0 +1,10 @@
+2016 Census Profiles Files / Profile of Census Disseminations Areas
+COL0 - GEO UID
+COL1 - Households by type / Total - Private households by household type - 100% data
+COL2 - Households by type / Total - Private households by household type - 100% data / One-census-family households
+COL3 - Households by type / Total - Private households by household type - 100% data / One-census-family households / Without children in a census family
+COL4 - Households by type / Total - Private households by household type - 100% data / One-census-family households / With children in a census family
+COL5 - Households by type / Total - Private households by household type - 100% data / Multiple-census-family households
+COL6 - Households by type / Total - Private households by household type - 100% data / Non-census-family households
+COL7 - Households by type / Total - Private households by household type - 100% data / Non-census-family households / One-person households
+COL8 - Households by type / Total - Private households by household type - 100% data / Non-census-family households / Two-or-more person non-census-family households

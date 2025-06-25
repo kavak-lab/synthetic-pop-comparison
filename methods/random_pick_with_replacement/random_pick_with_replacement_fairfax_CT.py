@@ -1,0 +1,32 @@
+import pandas as pd
+import numpy as np
+import scipy.constants as sp
+import time
+from collections import Counter
+from pandas import DataFrame
+import sys
+
+cons = pd.read_csv(sys.argv[1]) #Fairfax County CBGs
+indsz = pd.read_csv(sys.argv[2]) #Sample from PUMS
+
+
+#check type - int
+cons = cons.loc[:,'population':'white'].astype('int64')
+inds = indsz
+
+#RANDOM PICK WITH REPLACEMENT
+
+num_cbg = len(cons)
+sample_num = len(inds)
+
+np.random.seed(60)
+seeds = np.random.choice(num_cbg,num_cbg)
+
+
+for i in range(0,num_cbg):
+    population_num = cons['population'][i]
+    np.random.seed(seeds[i])
+    orig_solution = np.random.choice(sample_num,population_num)
+    ans = inds.loc[orig_solution,:]
+    ans.to_csv('../synthetic_data/US/CT/random_pick_with_replacement/{num}.csv'.format(num=str(i+1)),index=False)
+    #print(str(i+1)+"/"+str(num_cbg)+" completed")

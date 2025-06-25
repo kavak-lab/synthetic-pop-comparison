@@ -1,0 +1,9 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Population and dwelling counts / Population, 2016
+COL2 - Population and dwelling counts / Population, 2011
+COL3 - Population and dwelling counts / Population percentage change, 2011 to 2016
+COL4 - Population and dwelling counts / Total private dwellings
+COL5 - Population and dwelling counts / Private dwellings occupied by usual residents
+COL6 - Population and dwelling counts / Population density per square kilometre
+COL7 - Population and dwelling counts / Land area in square kilometres
